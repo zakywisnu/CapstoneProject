@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c25fe25f-b17a-41f9-9bf5-c7dfcc5c69ca" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>joblib</find>
+      <find>n_splits</find>
+      <find>4</find>
+      <find>label</find>
+      <find>cv</find>
+      <find>split</find>
+    </findStrings>
+  </component>
+  <component name="ProjectId" id="1XybQStvvk57sqeeSvHbJdpOk6t" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../audio-data-augmentation" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Zaky\CapstoneProject\ASR\SpeechRecognition" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Zaky\CapstoneProject\ASR\SpeechRecognition" />
+      <recent name="D:\Zaky\CapstoneProject\ASR\SpeechRecognition\Angka_0" />
+      <recent name="D:\Zaky\CapstoneProject\ASR\SpeechRecognition\Training" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.train">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="SpeechRecognition" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="noisereduction" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="SpeechRecognition" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/noisereduction.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="resampling" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="SpeechRecognition" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/resampling.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sample_rate" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="SpeechRecognition" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sample_rate.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="signalproc (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="SpeechRecognition" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="D:\Zaky\CapstoneProject\ASR\SpeechRecognition\train.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="train" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SpeechRecognition" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/train.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.train" />
+        <item itemvalue="Python.signalproc (1)" />
+        <item itemvalue="Python.sample_rate" />
+        <item itemvalue="Python.noisereduction" />
+        <item itemvalue="Python.resampling" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c25fe25f-b17a-41f9-9bf5-c7dfcc5c69ca" name="Default Changelist" comment="" />
+      <created>1574344113531</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574344113531</updated>
+      <workItem from="1574344122351" duration="3961000" />
+      <workItem from="1574478719897" duration="3965000" />
+      <workItem from="1574525915538" duration="1800000" />
+      <workItem from="1574601673094" duration="11554000" />
+      <workItem from="1574690112624" duration="1762000" />
+      <workItem from="1574760563269" duration="346000" />
+      <workItem from="1574762959685" duration="12356000" />
+      <workItem from="1574832972514" duration="1463000" />
+      <workItem from="1574834468252" duration="4206000" />
+      <workItem from="1574914806182" duration="1494000" />
+      <workItem from="1575011022190" duration="71000" />
+      <workItem from="1575011152786" duration="11365000" />
+      <workItem from="1575118072898" duration="9706000" />
+      <workItem from="1575256393159" duration="3768000" />
+      <workItem from="1575377884448" duration="6969000" />
+      <workItem from="1575460094032" duration="598000" />
+      <workItem from="1575707725475" duration="3058000" />
+      <workItem from="1575800507214" duration="3461000" />
+      <workItem from="1575860303270" duration="10308000" />
+      <workItem from="1575885109920" duration="3544000" />
+      <workItem from="1575970658963" duration="2261000" />
+      <workItem from="1576043262321" duration="1758000" />
+      <workItem from="1576060895902" duration="1722000" />
+      <workItem from="1576480201743" duration="3697000" />
+      <workItem from="1578833656763" duration="2509000" />
+      <workItem from="1578910547937" duration="968000" />
+      <workItem from="1579064941651" duration="1197000" />
+      <workItem from="1580097376106" duration="599000" />
+      <workItem from="1580119988212" duration="3386000" />
+      <workItem from="1580190466693" duration="1276000" />
+      <workItem from="1580455409676" duration="1765000" />
+      <workItem from="1580466684403" duration="783000" />
+      <workItem from="1580537312356" duration="14000" />
+      <workItem from="1580971702072" duration="2414000" />
+      <workItem from="1581071664666" duration="440000" />
+      <workItem from="1581145553981" duration="376000" />
+      <workItem from="1581227158890" duration="3090000" />
+      <workItem from="1581495291919" duration="1085000" />
+      <workItem from="1581667296696" duration="387000" />
+      <workItem from="1581817045072" duration="5395000" />
+      <workItem from="1581926003472" duration="1215000" />
+      <workItem from="1581938727831" duration="2967000" />
+      <workItem from="1581942985423" duration="382000" />
+      <workItem from="1582019992852" duration="312000" />
+      <workItem from="1582021283919" duration="2170000" />
+      <workItem from="1582104997155" duration="709000" />
+      <workItem from="1582105735747" duration="2112000" />
+      <workItem from="1582174024416" duration="2741000" />
+      <workItem from="1582266224049" duration="1257000" />
+      <workItem from="1582457656650" duration="1544000" />
+      <workItem from="1582532203369" duration="1887000" />
+      <workItem from="1582616891561" duration="1304000" />
+      <workItem from="1582697571752" duration="924000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
