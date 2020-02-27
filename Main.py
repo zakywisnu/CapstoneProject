@@ -36,76 +36,71 @@ class MainMenu(Menu):
         self.parent=parent
 
         ###############File Menu#################
-        self.new_icon=PhotoImage(file='icons/new.png')
-        self.open_icon=PhotoImage(file='icons/open.png')
-        self.save_icon=PhotoImage(file='icons/save_icon.png')
-        self.exit_icon=PhotoImage(file='icons/exit.png')
-
+        # # self.new_icon=PhotoImage(file='/Users/rakaapratama/CapstoneProject/icons/new.png')
+        # # self.open_icon=PhotoImage(file='/Users/rakaapratama/CapstoneProject/icons/open.png')
+        # # self.save_icon=PhotoImage(file='/Users/rakaapratama/CapstoneProject/icons/save_icon.png')
+        # # self.exit_icon=PhotoImage(file='/Users/rakaapratama/CapstoneProject/icons/exit.png')
+        #
         self.file=Menu(self,tearoff=0)
-        self.file.add_command(label='New',image=self.new_icon,compound=LEFT,accelerator="Ctrl+N",command=self.parent.newFile)
-        self.file.add_command(label='Open',accelerator="Ctrl+O",image=self.open_icon,compound=LEFT,
+        self.file.add_command(label='New',compound=LEFT,accelerator="Ctrl+N",command=self.parent.newFile)
+        self.file.add_command(label='Open',accelerator="Ctrl+O",compound=LEFT,
                               command=self.parent.openFile)
-        self.file.add_command(label='Save',accelerator="Ctrl+S",image=self.save_icon,compound=LEFT,
+        self.file.add_command(label='Save',accelerator="Ctrl+S",compound=LEFT,
                               command=self.parent.saveFile)
         self.file.add_command(label='Save as',accelerator="Ctrl+Alt+S",command=self.parent.saveAsFile)
-        self.file.add_command(label='Exit',image=self.exit_icon,compound=LEFT,
+        self.file.add_command(label='Exit',compound=LEFT,
                               command=self.parent.exitFunc)
 
         ########################Edit Menu#############################
-        self.edit = Menu(self, tearoff=0)
-        self.edit.add_command(label='Copy', accelerator="Ctrl+C",
-                              command=lambda: self.parent.texteditor.event_generate("<Control c>"))
-        self.edit.add_command(label='Paste', accelerator="Ctrl+V",
-                              command=lambda: self.parent.texteditor.event_generate("<Control v>"))
-        self.edit.add_command(label='Cut', accelerator="Ctrl+X",
-                              command=lambda: self.parent.texteditor.event_generate("<Control x>"))
-        self.edit.add_command(label='Clear All', accelerator="Ctrl+Alt+C",
-                              command=lambda: self.parent.texteditor.delete(1.0, END))
-        self.edit.add_command(label='Find', accelerator="Ctrl+F", command=self.parent.find)
+        self.edit=Menu(self,tearoff=0)
+        self.edit.add_command(label='Copy',accelerator="Ctrl+C",command=lambda :self.parent.texteditor.event_generate("<Control c>"))
+        self.edit.add_command(label='Paste',accelerator="Ctrl+V",command=lambda :self.parent.texteditor.event_generate("<Control v>"))
+        self.edit.add_command(label='Cut',accelerator="Ctrl+X",command=lambda :self.parent.texteditor.event_generate("<Control x>"))
+        self.edit.add_command(label='Clear All',accelerator="Ctrl+Alt+C",command=lambda :self.parent.texteditor.delete(1.0,END))
+        self.edit.add_command(label='Find',accelerator="Ctrl+F",command=self.parent.find)
 
         ###########################View Menu############################
         global showStatusbar
         global showToolbar
-        self.view = Menu(self, tearoff=0)
-        self.view.add_checkbutton(onvalue=True, offvalue=False, label="Tool Bar", variable=showToolbar,
+        self.view=Menu(self,tearoff=0)
+        self.view.add_checkbutton(onvalue=True, offvalue=False,label="Tool Bar",variable=showToolbar,
                                   command=self.parent.hideToolbar)
-        self.view.add_checkbutton(onvalue=1, offvalue=0, label="Status Bar", variable=showStatusbar,
+        self.view.add_checkbutton(onvalue=1, offvalue=0,label="Status Bar",variable=showStatusbar,
                                   command=self.parent.hideStatusbar)
 
         ##########################Themes Menu############################
-        self.themes = Menu(self, tearoff=0)
+        self.themes=Menu(self,tearoff=0)
         self.color_list = {
-            'Default': '#000000.#FFFFFF',  # first one is font color second one is background color
-            'Tomato': '#ffff00.#ff6347',
-            'LimeGreen': '#fffff0.#32cd32',
-            'Magenta': '#fffafa.#ff00ff',
-            'RoyalBlue': '#ffffbb.#4169e1',
-            'MediumBlue': '#d1e7e0.#0000cd',
-            'Dracula': '#ffffff.#000000',
+            'Default': '#000000.#FFFFFF',# first one is font color second one is background color
+            'Tomato' :'#ffff00.#ff6347',
+            'LimeGreen' :'#fffff0.#32cd32',
+            'Magenta' : '#fffafa.#ff00ff',
+            'RoyalBlue':'#ffffbb.#4169e1',
+            'MediumBlue':'#d1e7e0.#0000cd',
+            'Dracula' :'#ffffff.#000000',
         }
-        self.theme_choice = StringVar()
+        self.theme_choice=StringVar()
         for i in sorted(self.color_list):
-            self.themes.add_radiobutton(label=i, variable=self.theme_choice, command=self.changeTheme)
+            self.themes.add_radiobutton(label=i, variable=self.theme_choice,command=self.changeTheme)
 
-        self.add_cascade(label='File', menu=self.file)
+        self.add_cascade(label='File',menu=self.file)
         self.add_cascade(label='Edit', menu=self.edit)
-        self.add_cascade(label='View', menu=self.view)
-        self.add_cascade(label='Templates', menu=self.themes)
-        self.about = Menu(self, tearoff=0)
-        self.add_cascade(label="About", command=self.parent.aboutMessage)
+        self.add_cascade(label='View',menu=self.view)
+        self.add_cascade(label='Templates',menu=self.themes)
+        self.about=Menu(self,tearoff=0)
+        self.add_cascade(label="About",command=self.parent.aboutMessage)
 
-        def changeTheme(self):
-            selected_theme = self.theme_choice.get()
-            fg_bg_color = self.color_list.get(selected_theme)
-            print(fg_bg_color)
-            foreground_color, background_color = fg_bg_color.split('.')
-            self.parent.texteditor.config(background=background_color, fg=foreground_color)
-
+    def changeTheme(self):
+        selected_theme=self.theme_choice.get()
+        fg_bg_color=self.color_list.get(selected_theme)
+        print(fg_bg_color)
+        foreground_color,background_color=fg_bg_color.split('.')
+        self.parent.texteditor.config(background=background_color,fg=foreground_color)
 
 class TextEditor(Text):
-    def __init__(self, parent, *args, **kwargs):
-        Text.__init__(self, parent, *args, **kwargs)
-        self.parent = parent
+    def __init__(self,parent,*args,**kwargs):
+        Text.__init__(self,parent,*args,**kwargs)
+        self.parent=parent
         self.config(wrap='word')
         self.pack(expand=YES, fill=BOTH)
         self.config(relief=FLAT)
@@ -115,18 +110,81 @@ class TextEditor(Text):
         # yscrollbar.pack(side=RIGHT,fill=Y)
         # xscrollbar.config(command=self.xview)
         # yscrollbar.config(command=self.yview)
-        scroll_bar = Scrollbar(self, bd=5, relief=SUNKEN)
+        scroll_bar=Scrollbar(self,bd=5,relief=SUNKEN)
         self.configure(yscrollcommand=scroll_bar.set)
         scroll_bar.config(command=self.yview)
-        scroll_bar.pack(side=RIGHT, fill=Y)
+        scroll_bar.pack(side=RIGHT,fill=Y)
+
 
 
 class StatusBar(Label):
-    def __init__(self, parent, *args, **kwargs):
-        Label.__init__(self, parent, *args, **kwargs)
-        self.parent = parent
+    def __init__(self,parent,*args,**kwargs):
+        Label.__init__(self,parent,*args,**kwargs)
+        self.parent=parent
         self.pack(side=BOTTOM)
         self.config(text='Status Bar')
+
+
+class ToolBar(Label):
+    def __init__(self,parent,*args,**kwargs):
+        Label.__init__(self,parent,*args,**kwargs)
+        self.parent=parent
+        self.pack(side=TOP,fill=X)
+
+        ################################################################
+        self.cbFont=ttk.Combobox(self)
+        self.cbFontSize=ttk.Combobox(self)
+        self.cbFont.pack(side=LEFT, padx=(5,10))
+        self.cbFontSize.pack(side=LEFT)
+        ################################################################
+        # self.boldIcon=PhotoImage(file='icons/bold.png')
+        # btnBold=Button(self,image=self.boldIcon,command=self.parent.changeBold)
+        # btnBold.pack(side=LEFT,padx=5)
+        # ################################################################
+        # self.italicIcon = PhotoImage(file='icons/italic.png')
+        # btnItalic = Button(self, image=self.italicIcon,command=self.parent.changeItalic)
+        # btnItalic.pack(side=LEFT, padx=5)
+        # ################################################################
+        # self.underlineIcon = PhotoImage(file='icons/under_line.png')
+        # btnUnderline = Button(self, image=self.underlineIcon,command=self.parent.changeUnderline)
+        # btnUnderline.pack(side=LEFT, padx=5)
+        # ################################################################
+        # self.fontcolorIcon = PhotoImage(file='icons/color.png')
+        # btnfontColor = Button(self, image=self.fontcolorIcon,command=self.parent.changeFontColor)
+        # btnfontColor.pack(side=LEFT, padx=5)
+        # ################################################################
+        # self.alignLeftIcon = PhotoImage(file='icons/alignleft.png')
+        # btnalignLeft = Button(self, image=self.alignLeftIcon,command=self.parent.alignLeft)
+        # btnalignLeft.pack(side=LEFT, padx=5)
+        # ################################################################
+        # self.alignCenterIcon = PhotoImage(file='icons/aligncenter.png')
+        # btnalignCenter = Button(self, image=self.alignCenterIcon,command=self.parent.alignCenter)
+        # btnalignCenter.pack(side=LEFT, padx=5)
+        # ################################################################
+        # self.alignRightIcon = PhotoImage(file='icons/alignright.png')
+        # btnalignRight = Button(self, image=self.alignRightIcon,command=self.parent.alignRight)
+        # btnalignRight.pack(side=LEFT, padx=5)
+
+        ##########################################################################
+
+        fonts=font.families()
+        fontList=[]
+        fontSizeList=[]
+
+        for i in range(8,80):
+            fontSizeList.append(i)
+        for i in fonts:
+            fontList.append(i)
+
+        self.fontVar=StringVar()
+        self.cbFont.config(values=fontList,textvariable=self.fontVar)
+        self.cbFont.current(0)
+        self.cbFontSize.config(values=fontSizeList)
+        self.cbFontSize.current(4)
+
+        self.cbFont.bind("<<ComboboxSelected>>", self.parent.getFont)
+        self.cbFontSize.bind("<<ComboboxSelected>>", self.parent.getFontSize)
+
 
 class MainApplication(Frame):
     def __init__(self,parent,*args,**kwargs):
@@ -256,6 +314,15 @@ class MainApplication(Frame):
         fontSize=self.toolbar.cbFontSize.get()
         self.texteditor.configure(font=(fontFamily,fontSize))
 
+    def changeBold(self,*arg):
+        text_pro=font.Font(font=self.texteditor['font'])
+        print(text_pro.actual('weight'))
+        if text_pro.actual('weight')=='normal':
+            self.texteditor.configure(font=(fontFamily,fontSize,'bold'))
+        elif text_pro.actual('weight')=='bold':
+            self.texteditor.configure(font=(fontFamily, fontSize, 'normal'))
+
+
     def changeItalic(self,*args):
 
         text_pro=font.Font(font=self.texteditor['font'])
@@ -267,10 +334,38 @@ class MainApplication(Frame):
         elif text_pro.actual('slant')=='italic':
             self.texteditor.configure(font=(fontFamily,fontSize, 'roman'))
 
+    def changeUnderline(self,*args):
+        text_pro = font.Font(font=self.texteditor['font'])
+        print(text_pro.actual())
+
+        if text_pro.actual('underline')==0:
+            self.texteditor.configure(font=(fontFamily,fontSize, 'underline'))
+        elif text_pro.actual('underline')==1:
+            self.texteditor.configure(font=(fontFamily,fontSize, 'normal'))
+
     def changeFontColor(self,*args):
         color = colorchooser.askcolor()
         print(color)
         self.texteditor.configure(fg=color[1])
+
+    def alignLeft(self):
+        content = self.texteditor.get(1.0, 'end')
+        self.texteditor.tag_config('left',justify=LEFT)
+        self.texteditor.delete(1.0, END)
+        self.texteditor.insert(INSERT, content, 'left')
+
+
+    def alignCenter(self):
+        content = self.texteditor.get(1.0, 'end')
+        self.texteditor.tag_config('center', justify=CENTER)
+        self.texteditor.delete(1.0,END)
+        self.texteditor.insert(INSERT,content,'center')
+
+    def alignRight(self,*args):
+        content = self.texteditor.get(1.0, 'end')
+        self.texteditor.tag_config('right', justify=RIGHT)
+        self.texteditor.delete(1.0, END)
+        self.texteditor.insert(INSERT, content, 'right')
 
     def find(self,*args):
         self.find=FindDialog(self)
@@ -329,6 +424,6 @@ if __name__=="__main__":
     root=Tk()
     root.title("Text Editor")
     MainApplication(root).pack(side=TOP,fill=BOTH,expand=True)
-    root.iconbitmap('icons/icons.ico')
+    # root.iconbitmap('icons/icon.ico')
     root.geometry("1250x850")
     root.mainloop()
