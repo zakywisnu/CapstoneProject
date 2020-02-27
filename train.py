@@ -148,7 +148,7 @@ class Recognizer(object):
                                  {'kernel': ['linear'], 'C': [0.01, 0.1, 1, 10, 100, 100, 1000]}]
 
     def gridSearch(self, X, y, K):
-        X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.25)
+        X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2)
 
         scores = ['precision', 'recall']
 
@@ -185,7 +185,7 @@ class Recognizer(object):
 
         print("Done training")
         best_clf = clf
-        joblib.dump(best_clf, 'D:/Zaky/CapstoneProject/ASR/SpeechRecognition/data/best_clf.joblib')  # Menyimpan model classifier pada suatu file .joblib.
+        joblib.dump(best_clf, 'D:/Zaky/CapstoneProject/ASR/SpeechRecognition/data_record/best_clf.joblib')  # Menyimpan model classifier pada suatu file .joblib.
         return best_clf, best_param
 
 if __name__ == '__main__':
@@ -208,5 +208,8 @@ if __name__ == '__main__':
     K = 10
     grid_search_clf,best_parameter = recognizer.gridSearch(X,y,K)
 
+    print()
+    print("Testing Report : ")
+    print()
     y_true, y_pred = y_test, grid_search_clf.predict(X_test)
     print(classification_report(y_true, y_pred))
