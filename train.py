@@ -27,14 +27,11 @@ from sklearn.preprocessing import minmax_scale
 
 import pandas as pd
 
-#Initialize Path to Training Directory and Testing Directory
+#Initialize Path to Training Directory and Testing Directory`
 
-# TS_DIR = 'D:/Zaky/CapstoneProject/ASR/SpeechRecognition/data/TS_SET' # dataset for testing
-# TS_DIR = 'D:/Zaky/CapstoneProject/ASR/SpeechRecognition/data_new_test' # dataset for testing
-TS_DIR = 'D:/Zaky/CapstoneProject/ASR/SpeechRecognition/data_record/TEST' # dataset for testing
+TS_DIR = 'D:/Zaky/CapstoneProject/ASR/SpeechRecognition/data_record/test' # dataset for testing
 
-# TR_DIR = 'D:/Zaky/CapstoneProject/ASR/SpeechRecognition/data_new_train' # dataset for training
-TR_DIR = 'D:/Zaky/CapstoneProject/ASR/SpeechRecognition/data_record/TRAIN' # dataset for training
+TR_DIR = 'D:/Zaky/CapstoneProject/ASR/SpeechRecognition/data_record/train' # dataset for training
 
 class Preprocessing(object):
 
@@ -148,7 +145,7 @@ class Recognizer(object):
                                  {'kernel': ['linear'], 'C': [0.01, 0.1, 1, 10, 100, 100, 1000]}]
 
     def gridSearch(self, X, y, K):
-        X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2)
+        X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=0)
 
         scores = ['precision', 'recall']
 
@@ -185,7 +182,7 @@ class Recognizer(object):
 
         print("Done training")
         best_clf = clf
-        joblib.dump(best_clf, 'D:/Zaky/CapstoneProject/ASR/SpeechRecognition/data_record/best_clf.joblib')  # Menyimpan model classifier pada suatu file .joblib.
+        joblib.dump(best_clf, 'D:/Zaky/CapstoneProject/ASR/SpeechRecognition/best_clf.joblib')  # Menyimpan model classifier pada suatu file .joblib.
         return best_clf, best_param
 
 if __name__ == '__main__':
