@@ -2,1201 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c25fe25f-b17a-41f9-9bf5-c7dfcc5c69ca" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/main2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new/0/10_0.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new/0/11_0.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new/0/12_0.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new/0/13_0.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new/0/14_0.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new/0/1_0.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new/0/2_0.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new/0/3_0.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new/0/4_0.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new/0/5_0.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new/0/6_0.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new/0/7_0.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new/0/8_0.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new/0/9_0.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new/1/10_1.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new/1/11_1.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new/1/12_1.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new/1/13_1.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new/1/14_1.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new/1/1_1.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new/1/2_1.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new/1/3_1.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new/1/4_1.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new/1/5_1.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new/1/6_1.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new/1/7_1.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new/1/8_1.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new/1/9_1.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new/2/10_2.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new/2/11_2.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new/2/12_2.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new/2/13_2.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new/2/14_2.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new/2/1_2.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new/2/2_2.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new/2/3_2.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new/2/4_2.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new/2/5_2.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new/2/6_2.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new/2/7_2.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new/2/8_2.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new/2/9_2.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new/3/10_3.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new/3/11_3.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new/3/12_3.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new/3/13_3.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new/3/14_3.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new/3/1_3.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new/3/2_3.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new/3/3_3.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new/3/4_3.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new/3/5_3.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new/3/6_3.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new/3/7_3.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new/3/8_3.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new/3/9_3.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new/4/10_4.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new/4/11_4.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new/4/12_4.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new/4/13_4.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new/4/14_4.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new/4/1_4.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new/4/2_4.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new/4/3_4.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new/4/4_4.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new/4/5_4.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new/4/6_4.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new/4/7_4.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new/4/8_4.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new/4/9_4.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new/5/10_5.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new/5/11_5.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new/5/12_5.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new/5/13_5.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new/5/14_5.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new/5/1_5.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new/5/2_5.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new/5/3_5.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new/5/4_5.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new/5/5_5.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new/5/6_5.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new/5/7_5.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new/5/8_5.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new/5/9_5.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new/6/10_6.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new/6/11_6.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new/6/12_6.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new/6/13_6.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new/6/14_6.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new/6/1_6.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new/6/2_6.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new/6/3_6.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new/6/4_6.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new/6/5_6.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new/6/6_6.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new/6/7_6.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new/6/8_6.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new/6/9_6.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new/7/10_7.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new/7/11_7.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new/7/12_7.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new/7/13_7.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new/7/14_7.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new/7/1_7.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new/7/2_7.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new/7/3_7.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new/7/4_7.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new/7/5_7.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new/7/6_7.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new/7/7_7.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new/7/8_7.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new/7/9_7.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new/8/10_8.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new/8/11_8.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new/8/12_8.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new/8/13_8.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new/8/14_8.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new/8/1_8.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new/8/2_8.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new/8/3_8.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new/8/4_8.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new/8/5_8.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new/8/6_8.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new/8/7_8.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new/8/8_8.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new/8/9_8.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new/9/10_9.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new/9/11_9.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new/9/12_9.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new/9/13_9.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new/9/14_9.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new/9/1_9.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new/9/2_9.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new/9/3_9.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new/9/4_9.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new/9/5_9.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new/9/6_9.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new/9/7_9.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new/9/8_9.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new/9/9_9.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new_test/Angka_0_new/10_0.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new_test/Angka_0_new/11_0.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new_test/Angka_0_new/12_0.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new_test/Angka_0_new/13_0.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new_test/Angka_0_new/14_0.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new_test/Angka_1_new/10_1.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new_test/Angka_1_new/11_1.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new_test/Angka_1_new/12_1.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new_test/Angka_1_new/13_1.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new_test/Angka_1_new/14_1.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new_test/Angka_2_new/10_2.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new_test/Angka_2_new/11_2.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new_test/Angka_2_new/12_2.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new_test/Angka_2_new/13_2.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new_test/Angka_2_new/14_2.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new_test/Angka_3_new/10_3.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new_test/Angka_3_new/11_3.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new_test/Angka_3_new/12_3.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new_test/Angka_3_new/13_3.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new_test/Angka_3_new/14_3.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new_test/Angka_4_new/10_4.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new_test/Angka_4_new/11_4.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new_test/Angka_4_new/12_4.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new_test/Angka_4_new/13_4.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new_test/Angka_4_new/14_4.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new_test/Angka_5_new/10_5.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new_test/Angka_5_new/11_5.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new_test/Angka_5_new/12_5.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new_test/Angka_5_new/13_5.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new_test/Angka_5_new/14_5.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new_test/Angka_6_new/10_6.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new_test/Angka_6_new/11_6.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new_test/Angka_6_new/12_6.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new_test/Angka_6_new/13_6.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new_test/Angka_6_new/14_6.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new_test/Angka_7_new/10_7.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new_test/Angka_7_new/11_7.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new_test/Angka_7_new/12_7.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new_test/Angka_7_new/13_7.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new_test/Angka_7_new/14_7.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new_test/Angka_8_new/10_8.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new_test/Angka_8_new/11_8.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new_test/Angka_8_new/12_8.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new_test/Angka_8_new/13_8.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new_test/Angka_8_new/14_8.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new_test/Angka_9_new/10_9.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new_test/Angka_9_new/11_9.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new_test/Angka_9_new/12_9.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new_test/Angka_9_new/13_9.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new_test/Angka_9_new/14_9.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new_train/0/1_0.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new_train/0/2_0.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new_train/0/3_0.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new_train/0/4_0.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new_train/0/5_0.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new_train/0/6_0.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new_train/0/7_0.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new_train/0/8_0.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new_train/0/9_0.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new_train/1/1_1.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new_train/1/2_1.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new_train/1/3_1.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new_train/1/4_1.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new_train/1/5_1.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new_train/1/6_1.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new_train/1/7_1.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new_train/1/8_1.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new_train/1/9_1.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new_train/2/1_2.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new_train/2/2_2.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new_train/2/3_2.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new_train/2/4_2.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new_train/2/5_2.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new_train/2/6_2.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new_train/2/7_2.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new_train/2/8_2.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new_train/2/9_2.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new_train/3/1_3.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new_train/3/2_3.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new_train/3/3_3.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new_train/3/4_3.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new_train/3/5_3.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new_train/3/6_3.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new_train/3/7_3.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new_train/3/8_3.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new_train/3/9_3.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new_train/4/1_4.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new_train/4/2_4.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new_train/4/3_4.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new_train/4/4_4.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new_train/4/5_4.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new_train/4/6_4.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new_train/4/7_4.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new_train/4/8_4.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new_train/4/9_4.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new_train/5/1_5.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new_train/5/2_5.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new_train/5/3_5.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new_train/5/4_5.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new_train/5/5_5.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new_train/5/6_5.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new_train/5/7_5.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new_train/5/8_5.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new_train/5/9_5.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new_train/6/1_6.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new_train/6/2_6.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new_train/6/3_6.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new_train/6/4_6.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new_train/6/5_6.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new_train/6/6_6.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new_train/6/7_6.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new_train/6/8_6.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new_train/6/9_6.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new_train/7/1_7.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new_train/7/2_7.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new_train/7/3_7.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new_train/7/4_7.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new_train/7/5_7.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new_train/7/6_7.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new_train/7/7_7.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new_train/7/8_7.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new_train/7/9_7.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new_train/8/1_8.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new_train/8/2_8.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new_train/8/3_8.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new_train/8/4_8.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new_train/8/5_8.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new_train/8/6_8.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new_train/8/7_8.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new_train/8/8_8.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new_train/8/9_8.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new_train/9/1_9.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new_train/9/2_9.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new_train/9/3_9.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new_train/9/4_9.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new_train/9/5_9.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new_train/9/6_9.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new_train/9/7_9.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new_train/9/8_9.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_new_train/9/9_9.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/delapan/0_8.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/delapan/0_8.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/delapan/10_8.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/delapan/10_8.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/delapan/11_8.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/delapan/11_8.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/delapan/12_8.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/delapan/12_8.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/delapan/13_8.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/delapan/13_8.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/delapan/14_8.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/delapan/14_8.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/delapan/15_8.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/delapan/15_8.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/delapan/16_8.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/delapan/16_8.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/delapan/17_8.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/delapan/17_8.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/delapan/18_8.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/delapan/18_8.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/delapan/19_8.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/delapan/19_8.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/delapan/1_8.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/delapan/1_8.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/delapan/20_8.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/delapan/20_8.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/delapan/21_8.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/delapan/21_8.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/delapan/22_8.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/delapan/22_8.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/delapan/23_8.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/delapan/23_8.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/delapan/24_8.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/delapan/24_8.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/delapan/2_8.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/delapan/2_8.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/delapan/3_8.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/delapan/3_8.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/delapan/4_8.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/delapan/4_8.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/delapan/5_8.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/delapan/5_8.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/delapan/6_8.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/delapan/6_8.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/delapan/7_8.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/delapan/7_8.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/delapan/8_8.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/delapan/8_8.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/delapan/9_8.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/delapan/9_8.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/dua/0_2.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/dua/0_2.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/dua/10_2.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/dua/10_2.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/dua/11_2.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/dua/11_2.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/dua/12_2.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/dua/12_2.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/dua/13_2.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/dua/13_2.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/dua/14_2.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/dua/14_2.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/dua/15_2.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/dua/15_2.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/dua/16_2.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/dua/16_2.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/dua/17_2.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/dua/17_2.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/dua/18_2.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/dua/18_2.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/dua/19_2.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/dua/19_2.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/dua/1_2.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/dua/1_2.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/dua/20_2.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/dua/20_2.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/dua/21_2.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/dua/21_2.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/dua/22_2.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/dua/22_2.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/dua/23_2.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/dua/23_2.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/dua/24_2.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/dua/24_2.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/dua/2_2.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/dua/2_2.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/dua/3_2.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/dua/3_2.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/dua/4_2.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/dua/4_2.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/dua/5_2.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/dua/5_2.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/dua/6_2.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/dua/6_2.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/dua/7_2.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/dua/7_2.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/dua/8_2.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/dua/8_2.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/dua/9_2.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/dua/9_2.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/empat/0_4.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/empat/0_4.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/empat/10_4.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/empat/10_4.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/empat/11_4.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/empat/11_4.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/empat/12_4.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/empat/12_4.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/empat/13_4.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/empat/13_4.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/empat/14_4.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/empat/14_4.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/empat/15_4.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/empat/15_4.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/empat/16_4.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/empat/16_4.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/empat/17_4.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/empat/17_4.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/empat/18_4.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/empat/18_4.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/empat/19_4.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/empat/19_4.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/empat/1_4.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/empat/1_4.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/empat/20_4.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/empat/20_4.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/empat/21_4.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/empat/21_4.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/empat/22_4.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/empat/22_4.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/empat/23_4.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/empat/23_4.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/empat/24_4.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/empat/24_4.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/empat/2_4.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/empat/2_4.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/empat/3_4.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/empat/3_4.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/empat/4_4.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/empat/4_4.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/empat/5_4.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/empat/5_4.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/empat/6_4.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/empat/6_4.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/empat/7_4.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/empat/7_4.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/empat/8_4.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/empat/8_4.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/empat/9_4.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/empat/9_4.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/enam/0_6.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/enam/0_6.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/enam/10_6.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/enam/10_6.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/enam/11_6.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/enam/11_6.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/enam/12_6.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/enam/12_6.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/enam/13_6.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/enam/13_6.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/enam/14_6.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/enam/14_6.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/enam/15_6.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/enam/15_6.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/enam/16_6.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/enam/16_6.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/enam/17_6.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/enam/17_6.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/enam/18_6.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/enam/18_6.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/enam/19_6.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/enam/19_6.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/enam/1_6.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/enam/1_6.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/enam/20_6.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/enam/20_6.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/enam/21_6.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/enam/21_6.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/enam/22_6.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/enam/22_6.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/enam/23_6.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/enam/23_6.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/enam/24_6.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/enam/24_6.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/enam/2_6.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/enam/2_6.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/enam/3_6.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/enam/3_6.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/enam/4_6.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/enam/4_6.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/enam/5_6.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/enam/5_6.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/enam/6_6.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/enam/6_6.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/enam/7_6.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/enam/7_6.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/enam/8_6.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/enam/8_6.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/enam/9_6.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/enam/9_6.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/lima/0_5.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/lima/0_5.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/lima/10_5.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/lima/10_5.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/lima/11_5.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/lima/11_5.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/lima/12_5.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/lima/12_5.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/lima/13_5.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/lima/13_5.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/lima/14_5.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/lima/14_5.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/lima/15_5.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/lima/15_5.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/lima/16_5.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/lima/16_5.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/lima/17_5.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/lima/17_5.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/lima/18_5.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/lima/18_5.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/lima/19_5.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/lima/19_5.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/lima/1_5.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/lima/1_5.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/lima/20_5.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/lima/20_5.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/lima/21_5.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/lima/21_5.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/lima/22_5.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/lima/22_5.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/lima/23_5.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/lima/23_5.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/lima/24_5.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/lima/24_5.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/lima/2_5.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/lima/2_5.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/lima/3_5.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/lima/3_5.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/lima/4_5.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/lima/4_5.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/lima/5_5.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/lima/5_5.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/lima/6_5.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/lima/6_5.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/lima/7_5.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/lima/7_5.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/lima/8_5.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/lima/8_5.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/lima/9_5.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/lima/9_5.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/nol/0_0.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/nol/0_0.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/nol/10_0.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/nol/10_0.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/nol/11_0.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/nol/11_0.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/nol/12_0.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/nol/12_0.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/nol/13_0.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/nol/13_0.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/nol/14_0.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/nol/14_0.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/nol/15_0.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/nol/15_0.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/nol/16_0.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/nol/16_0.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/nol/17_0.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/nol/17_0.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/nol/18_0.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/nol/18_0.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/nol/19_0.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/nol/19_0.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/nol/1_0.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/nol/20_0.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/nol/20_0.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/nol/21_0.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/nol/21_0.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/nol/22_0.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/nol/22_0.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/nol/23_0.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/nol/23_0.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/nol/24_0.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/nol/24_0.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/nol/2_0.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/nol/2_0.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/nol/3_0.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/nol/3_0.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/nol/4_0.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/nol/4_0.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/nol/5_0.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/nol/5_0.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/nol/6_0.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/nol/6_0.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/nol/7_0.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/nol/7_0.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/nol/8_0.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/nol/8_0.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/nol/9_0.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/nol/9_0.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/satu/0_1.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/satu/0_1.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/satu/10_1.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/satu/10_1.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/satu/11_1.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/satu/11_1.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/satu/12_1.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/satu/12_1.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/satu/13_1.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/satu/13_1.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/satu/14_1.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/satu/14_1.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/satu/15_1.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/satu/15_1.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/satu/16_1.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/satu/16_1.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/satu/17_1.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/satu/17_1.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/satu/18_1.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/satu/18_1.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/satu/19_1.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/satu/19_1.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/satu/1_1.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/satu/1_1.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/satu/20_1.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/satu/20_1.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/satu/21_1.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/satu/21_1.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/satu/22_1.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/satu/22_1.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/satu/23_1.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/satu/23_1.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/satu/24_1.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/satu/24_1.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/satu/2_1.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/satu/2_1.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/satu/3_1.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/satu/3_1.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/satu/4_1.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/satu/4_1.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/satu/5_1.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/satu/5_1.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/satu/6_1.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/satu/6_1.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/satu/7_1.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/satu/7_1.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/satu/8_1.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/satu/8_1.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/satu/9_1.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/satu/9_1.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/sembilan/0_9.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/sembilan/0_9.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/sembilan/10_9.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/sembilan/10_9.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/sembilan/11_9.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/sembilan/11_9.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/sembilan/12_9.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/sembilan/12_9.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/sembilan/13_9.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/sembilan/13_9.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/sembilan/14_9.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/sembilan/14_9.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/sembilan/15_9.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/sembilan/15_9.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/sembilan/16_9.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/sembilan/16_9.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/sembilan/17_9.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/sembilan/17_9.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/sembilan/18_9.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/sembilan/18_9.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/sembilan/19_9.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/sembilan/19_9.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/sembilan/1_9.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/sembilan/1_9.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/sembilan/20_9.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/sembilan/20_9.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/sembilan/21_9.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/sembilan/21_9.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/sembilan/22_9.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/sembilan/22_9.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/sembilan/23_9.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/sembilan/23_9.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/sembilan/24_9.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/sembilan/24_9.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/sembilan/2_9.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/sembilan/2_9.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/sembilan/3_9.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/sembilan/3_9.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/sembilan/4_9.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/sembilan/4_9.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/sembilan/5_9.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/sembilan/5_9.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/sembilan/6_9.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/sembilan/6_9.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/sembilan/7_9.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/sembilan/7_9.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/sembilan/8_9.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/sembilan/8_9.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/sembilan/9_9.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/sembilan/9_9.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/tiga/0_3.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/tiga/0_3.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/tiga/10_3.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/tiga/10_3.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/tiga/11_3.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/tiga/11_3.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/tiga/12_3.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/tiga/12_3.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/tiga/13_3.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/tiga/13_3.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/tiga/14_3.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/tiga/14_3.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/tiga/15_3.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/tiga/15_3.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/tiga/16_3.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/tiga/16_3.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/tiga/17_3.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/tiga/17_3.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/tiga/18_3.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/tiga/18_3.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/tiga/19_3.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/tiga/19_3.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/tiga/1_3.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/tiga/1_3.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/tiga/20_3.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/tiga/20_3.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/tiga/21_3.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/tiga/21_3.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/tiga/22_3.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/tiga/22_3.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/tiga/23_3.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/tiga/23_3.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/tiga/24_3.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/tiga/24_3.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/tiga/2_3.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/tiga/2_3.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/tiga/3_3.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/tiga/3_3.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/tiga/4_3.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/tiga/4_3.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/tiga/5_3.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/tiga/5_3.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/tiga/6_3.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/tiga/6_3.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/tiga/7_3.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/tiga/7_3.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/tiga/8_3.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/tiga/8_3.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/tiga/9_3.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/tiga/9_3.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/tujuh/0_7.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/tujuh/0_7.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/tujuh/10_7.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/tujuh/10_7.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/tujuh/11_7.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/tujuh/11_7.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/tujuh/12_7.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/tujuh/12_7.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/tujuh/13_7.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/tujuh/13_7.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/tujuh/14_7.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/tujuh/14_7.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/tujuh/15_7.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/tujuh/15_7.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/tujuh/16_7.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/tujuh/16_7.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/tujuh/17_7.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/tujuh/17_7.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/tujuh/18_7.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/tujuh/18_7.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/tujuh/19_7.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/tujuh/19_7.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/tujuh/1_7.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/tujuh/1_7.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/tujuh/20_7.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/tujuh/20_7.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/tujuh/21_7.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/tujuh/21_7.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/tujuh/22_7.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/tujuh/22_7.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/tujuh/23_7.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/tujuh/23_7.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/tujuh/24_7.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/tujuh/24_7.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/tujuh/2_7.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/tujuh/2_7.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/tujuh/3_7.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/tujuh/3_7.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/tujuh/4_7.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/tujuh/4_7.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/tujuh/5_7.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/tujuh/5_7.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/tujuh/6_7.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/tujuh/6_7.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/tujuh/7_7.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/tujuh/7_7.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/tujuh/8_7.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/tujuh/8_7.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TEST/tujuh/9_7.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/test/tujuh/9_7.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/delapan/25_8.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/delapan/25_8.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/delapan/26_8.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/delapan/26_8.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/delapan/27_8.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/delapan/27_8.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/delapan/28_8.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/delapan/28_8.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/delapan/29_8.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/delapan/29_8.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/delapan/30_8.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/delapan/30_8.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/delapan/31_8.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/delapan/31_8.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/delapan/32_8.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/delapan/32_8.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/delapan/33_8.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/delapan/33_8.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/delapan/34_8.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/delapan/34_8.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/delapan/35_8.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/delapan/35_8.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/delapan/36_8.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/delapan/36_8.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/delapan/37_8.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/delapan/37_8.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/delapan/38_8.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/delapan/38_8.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/delapan/39_8.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/delapan/39_8.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/delapan/40_8.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/delapan/40_8.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/delapan/41_8.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/delapan/41_8.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/delapan/42_8.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/delapan/42_8.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/delapan/43_8.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/delapan/43_8.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/delapan/44_8.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/delapan/44_8.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/delapan/45_8.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/delapan/45_8.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/delapan/46_8.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/delapan/46_8.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/delapan/47_8.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/delapan/47_8.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/delapan/48_8.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/delapan/48_8.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/delapan/49_8.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/delapan/49_8.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/delapan/50_8.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/delapan/50_8.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/delapan/51_8.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/delapan/51_8.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/delapan/52_8.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/delapan/52_8.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/delapan/53_8.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/delapan/53_8.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/delapan/54_8.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/delapan/54_8.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/delapan/55_8.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/delapan/55_8.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/delapan/56_8.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/delapan/56_8.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/delapan/57_8.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/delapan/57_8.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/delapan/58_8.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/delapan/58_8.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/delapan/59_8.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/delapan/59_8.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/delapan/60_8.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/delapan/60_8.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/delapan/61_8.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/delapan/61_8.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/delapan/62_8.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/delapan/62_8.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/delapan/63_8.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/delapan/63_8.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/delapan/64_8.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/delapan/64_8.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/delapan/65_8.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/delapan/65_8.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/delapan/66_8.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/delapan/66_8.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/delapan/67_8.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/delapan/67_8.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/delapan/68_8.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/delapan/68_8.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/delapan/69_8.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/delapan/69_8.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/delapan/70_8.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/delapan/70_8.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/delapan/71_8.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/delapan/71_8.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/delapan/72_8.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/delapan/72_8.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/delapan/73_8.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/delapan/73_8.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/delapan/74_8.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/delapan/74_8.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/delapan/75_8.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/delapan/75_8.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/delapan/76_8.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/delapan/76_8.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/delapan/77_8.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/delapan/77_8.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/delapan/78_8.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/delapan/78_8.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/delapan/79_8.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/delapan/79_8.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/delapan/80_8.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/delapan/80_8.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/delapan/81_8.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/delapan/81_8.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/delapan/82_8.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/delapan/82_8.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/delapan/83_8.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/delapan/83_8.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/delapan/84_8.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/delapan/84_8.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/delapan/85_8.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/delapan/85_8.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/delapan/86_8.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/delapan/86_8.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/delapan/87_8.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/delapan/87_8.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/delapan/88_8.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/delapan/88_8.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/delapan/89_8.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/delapan/89_8.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/delapan/90_8.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/delapan/90_8.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/dua/25_2.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/dua/25_2.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/dua/26_2.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/dua/26_2.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/dua/27_2.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/dua/27_2.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/dua/28_2.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/dua/28_2.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/dua/29_2.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/dua/29_2.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/dua/30_2.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/dua/30_2.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/dua/31_2.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/dua/31_2.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/dua/32_2.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/dua/32_2.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/dua/33_2.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/dua/33_2.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/dua/34_2.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/dua/34_2.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/dua/35_2.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/dua/35_2.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/dua/36_2.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/dua/36_2.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/dua/37_2.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/dua/37_2.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/dua/38_2.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/dua/38_2.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/dua/39_2.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/dua/39_2.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/dua/40_2.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/dua/40_2.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/dua/41_2.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/dua/41_2.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/dua/42_2.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/dua/42_2.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/dua/43_2.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/dua/43_2.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/dua/44_2.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/dua/44_2.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/dua/45_2.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/dua/45_2.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/dua/46_2.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/dua/46_2.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/dua/47_2.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/dua/47_2.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/dua/48_2.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/dua/48_2.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/dua/49_2.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/dua/49_2.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/dua/50_2.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/dua/50_2.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/dua/51_2.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/dua/51_2.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/dua/52_2.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/dua/52_2.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/dua/53_2.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/dua/53_2.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/dua/54_2.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/dua/54_2.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/dua/55_2.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/dua/55_2.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/dua/56_2.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/dua/56_2.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/dua/57_2.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/dua/57_2.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/dua/58_2.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/dua/58_2.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/dua/59_2.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/dua/59_2.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/dua/60_2.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/dua/60_2.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/dua/61_2.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/dua/61_2.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/dua/62_2.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/dua/62_2.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/dua/63_2.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/dua/63_2.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/dua/64_2.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/dua/64_2.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/dua/65_2.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/dua/65_2.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/dua/66_2.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/dua/66_2.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/dua/67_2.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/dua/67_2.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/dua/68_2.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/dua/68_2.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/dua/69_2.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/dua/69_2.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/dua/70_2.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/dua/70_2.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/dua/71_2.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/dua/71_2.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/dua/72_2.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/dua/72_2.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/dua/73_2.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/dua/73_2.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/dua/74_2.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/dua/74_2.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/dua/75_2.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/dua/75_2.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/dua/76_2.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/dua/76_2.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/dua/77_2.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/dua/77_2.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/dua/78_2.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/dua/78_2.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/dua/79_2.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/dua/79_2.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/dua/80_2.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/dua/80_2.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/dua/81_2.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/dua/81_2.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/dua/82_2.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/dua/82_2.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/dua/83_2.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/dua/83_2.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/dua/84_2.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/dua/84_2.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/dua/85_2.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/dua/85_2.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/dua/86_2.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/dua/86_2.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/dua/87_2.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/dua/87_2.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/dua/88_2.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/dua/88_2.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/dua/89_2.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/dua/89_2.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/dua/90_2.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/dua/90_2.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/empat/25_4.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/empat/25_4.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/empat/26_4.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/empat/26_4.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/empat/27_4.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/empat/27_4.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/empat/28_4.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/empat/28_4.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/empat/29_4.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/empat/29_4.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/empat/30_4.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/empat/30_4.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/empat/31_4.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/empat/31_4.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/empat/32_4.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/empat/32_4.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/empat/33_4.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/empat/33_4.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/empat/34_4.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/empat/34_4.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/empat/35_4.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/empat/35_4.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/empat/36_4.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/empat/36_4.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/empat/37_4.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/empat/37_4.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/empat/38_4.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/empat/38_4.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/empat/39_4.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/empat/39_4.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/empat/40_4.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/empat/40_4.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/empat/41_4.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/empat/41_4.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/empat/42_4.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/empat/42_4.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/empat/43_4.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/empat/43_4.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/empat/44_4.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/empat/44_4.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/empat/45_4.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/empat/45_4.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/empat/46_4.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/empat/46_4.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/empat/47_4.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/empat/47_4.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/empat/48_4.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/empat/48_4.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/empat/49_4.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/empat/49_4.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/empat/50_4.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/empat/50_4.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/empat/51_4.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/empat/51_4.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/empat/52_4.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/empat/52_4.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/empat/53_4.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/empat/53_4.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/empat/54_4.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/empat/54_4.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/empat/55_4.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/empat/55_4.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/empat/56_4.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/empat/56_4.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/empat/57_4.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/empat/57_4.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/empat/58_4.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/empat/58_4.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/empat/59_4.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/empat/59_4.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/empat/60_4.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/empat/60_4.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/empat/61_4.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/empat/61_4.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/empat/62_4.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/empat/62_4.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/empat/63_4.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/empat/63_4.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/empat/64_4.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/empat/64_4.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/empat/65_4.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/empat/65_4.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/empat/66_4.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/empat/66_4.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/empat/67_4.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/empat/67_4.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/empat/68_4.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/empat/68_4.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/empat/69_4.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/empat/69_4.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/empat/70_4.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/empat/70_4.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/empat/71_4.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/empat/71_4.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/empat/72_4.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/empat/72_4.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/empat/73_4.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/empat/73_4.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/empat/74_4.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/empat/74_4.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/empat/75_4.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/empat/75_4.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/empat/76_4.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/empat/76_4.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/empat/77_4.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/empat/77_4.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/empat/78_4.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/empat/78_4.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/empat/79_4.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/empat/79_4.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/empat/80_4.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/empat/80_4.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/empat/81_4.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/empat/81_4.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/empat/82_4.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/empat/82_4.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/empat/83_4.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/empat/83_4.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/empat/84_4.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/empat/84_4.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/empat/85_4.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/empat/85_4.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/empat/86_4.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/empat/86_4.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/empat/87_4.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/empat/87_4.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/empat/88_4.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/empat/88_4.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/empat/89_4.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/empat/89_4.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/empat/90_4.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/empat/90_4.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/enam/25_6.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/enam/25_6.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/enam/26_6.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/enam/26_6.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/enam/27_6.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/enam/27_6.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/enam/28_6.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/enam/28_6.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/enam/29_6.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/enam/29_6.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/enam/30_6.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/enam/30_6.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/enam/31_6.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/enam/31_6.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/enam/32_6.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/enam/32_6.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/enam/33_6.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/enam/33_6.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/enam/34_6.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/enam/34_6.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/enam/35_6.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/enam/35_6.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/enam/36_6.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/enam/36_6.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/enam/37_6.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/enam/37_6.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/enam/38_6.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/enam/38_6.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/enam/39_6.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/enam/39_6.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/enam/40_6.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/enam/40_6.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/enam/41_6.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/enam/41_6.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/enam/42_6.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/enam/42_6.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/enam/43_6.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/enam/43_6.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/enam/44_6.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/enam/44_6.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/enam/45_6.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/enam/45_6.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/enam/46_6.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/enam/46_6.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/enam/47_6.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/enam/47_6.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/enam/48_6.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/enam/48_6.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/enam/49_6.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/enam/49_6.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/enam/50_6.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/enam/50_6.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/enam/51_6.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/enam/51_6.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/enam/52_6.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/enam/52_6.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/enam/53_6.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/enam/53_6.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/enam/54_6.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/enam/54_6.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/enam/55_6.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/enam/55_6.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/enam/56_6.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/enam/56_6.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/enam/57_6.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/enam/57_6.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/enam/58_6.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/enam/58_6.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/enam/59_6.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/enam/59_6.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/enam/60_6.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/enam/60_6.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/enam/61_6.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/enam/61_6.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/enam/62_6.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/enam/62_6.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/enam/63_6.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/enam/63_6.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/enam/64_6.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/enam/64_6.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/enam/65_6.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/enam/65_6.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/enam/66_6.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/enam/66_6.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/enam/67_6.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/enam/67_6.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/enam/68_6.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/enam/68_6.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/enam/69_6.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/enam/69_6.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/enam/70_6.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/enam/70_6.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/enam/71_6.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/enam/71_6.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/enam/72_6.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/enam/72_6.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/enam/73_6.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/enam/73_6.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/enam/74_6.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/enam/74_6.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/enam/75_6.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/enam/75_6.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/enam/76_6.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/enam/76_6.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/enam/77_6.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/enam/77_6.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/enam/78_6.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/enam/78_6.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/enam/79_6.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/enam/79_6.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/enam/80_6.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/enam/80_6.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/enam/81_6.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/enam/81_6.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/enam/82_6.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/enam/82_6.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/enam/83_6.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/enam/83_6.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/enam/84_6.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/enam/84_6.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/enam/85_6.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/enam/85_6.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/enam/86_6.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/enam/86_6.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/enam/87_6.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/enam/87_6.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/enam/88_6.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/enam/88_6.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/enam/89_6.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/enam/89_6.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/enam/90_6.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/enam/90_6.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/lima/25_5.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/lima/25_5.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/lima/26_5.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/lima/26_5.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/lima/27_5.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/lima/27_5.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/lima/28_5.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/lima/28_5.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/lima/29_5.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/lima/29_5.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/lima/30_5.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/lima/30_5.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/lima/31_5.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/lima/31_5.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/lima/32_5.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/lima/32_5.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/lima/33_5.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/lima/33_5.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/lima/34_5.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/lima/34_5.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/lima/35_5.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/lima/35_5.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/lima/36_5.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/lima/36_5.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/lima/37_5.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/lima/37_5.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/lima/38_5.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/lima/38_5.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/lima/39_5.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/lima/39_5.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/lima/40_5.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/lima/40_5.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/lima/41_5.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/lima/41_5.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/lima/42_5.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/lima/42_5.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/lima/43_5.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/lima/43_5.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/lima/44_5.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/lima/44_5.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/lima/45_5.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/lima/45_5.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/lima/46_5.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/lima/46_5.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/lima/47_5.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/lima/47_5.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/lima/48_5.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/lima/48_5.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/lima/49_5.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/lima/49_5.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/lima/50_5.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/lima/50_5.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/lima/51_5.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/lima/51_5.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/lima/52_5.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/lima/52_5.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/lima/53_5.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/lima/53_5.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/lima/54_5.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/lima/54_5.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/lima/55_5.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/lima/55_5.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/lima/56_5.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/lima/56_5.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/lima/57_5.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/lima/57_5.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/lima/58_5.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/lima/58_5.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/lima/59_5.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/lima/59_5.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/lima/60_5.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/lima/60_5.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/lima/61_5.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/lima/61_5.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/lima/62_5.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/lima/62_5.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/lima/63_5.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/lima/63_5.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/lima/64_5.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/lima/64_5.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/lima/65_5.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/lima/65_5.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/lima/66_5.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/lima/66_5.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/lima/67_5.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/lima/67_5.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/lima/68_5.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/lima/68_5.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/lima/69_5.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/lima/69_5.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/lima/70_5.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/lima/70_5.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/lima/71_5.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/lima/71_5.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/lima/72_5.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/lima/72_5.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/lima/73_5.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/lima/73_5.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/lima/74_5.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/lima/74_5.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/lima/75_5.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/lima/75_5.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/lima/76_5.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/lima/76_5.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/lima/77_5.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/lima/77_5.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/lima/78_5.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/lima/78_5.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/lima/79_5.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/lima/79_5.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/lima/80_5.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/lima/80_5.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/lima/81_5.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/lima/81_5.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/lima/82_5.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/lima/82_5.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/lima/83_5.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/lima/83_5.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/lima/84_5.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/lima/84_5.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/lima/85_5.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/lima/85_5.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/lima/86_5.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/lima/86_5.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/lima/87_5.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/lima/87_5.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/lima/88_5.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/lima/88_5.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/lima/89_5.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/lima/89_5.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/lima/90_5.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/lima/90_5.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/nol/25_0.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/nol/25_0.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/nol/26_0.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/nol/26_0.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/nol/27_0.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/nol/27_0.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/nol/28_0.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/nol/28_0.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/nol/29_0.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/nol/29_0.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/nol/30_0.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/nol/30_0.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/nol/31_0.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/nol/31_0.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/nol/32_0.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/nol/32_0.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/nol/33_0.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/nol/33_0.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/nol/34_0.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/nol/34_0.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/nol/35_0.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/nol/35_0.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/nol/36_0.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/nol/36_0.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/nol/37_0.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/nol/37_0.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/nol/38_0.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/nol/38_0.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/nol/39_0.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/nol/39_0.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/nol/40_0.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/nol/40_0.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/nol/41_0.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/nol/41_0.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/nol/42_0.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/nol/42_0.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/nol/43_0.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/nol/43_0.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/nol/44_0.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/nol/44_0.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/nol/45_0.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/nol/45_0.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/nol/46_0.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/nol/46_0.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/nol/47_0.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/nol/47_0.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/nol/48_0.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/nol/48_0.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/nol/49_0.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/nol/49_0.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/nol/50_0.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/nol/50_0.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/nol/51_0.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/nol/51_0.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/nol/52_0.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/nol/52_0.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/nol/53_0.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/nol/53_0.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/nol/54_0.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/nol/54_0.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/nol/55_0.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/nol/55_0.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/nol/56_0.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/nol/56_0.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/nol/57_0.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/nol/57_0.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/nol/58_0.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/nol/58_0.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/nol/59_0.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/nol/59_0.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/nol/60_0.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/nol/60_0.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/nol/61_0.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/nol/61_0.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/nol/62_0.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/nol/62_0.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/nol/63_0.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/nol/63_0.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/nol/64_0.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/nol/64_0.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/nol/65_0.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/nol/65_0.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/nol/66_0.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/nol/66_0.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/nol/67_0.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/nol/67_0.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/nol/68_0.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/nol/68_0.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/nol/69_0.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/nol/69_0.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/nol/70_0.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/nol/70_0.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/nol/71_0.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/nol/71_0.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/nol/72_0.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/nol/72_0.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/nol/73_0.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/nol/73_0.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/nol/74_0.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/nol/74_0.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/nol/75_0.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/nol/75_0.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/nol/76_0.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/nol/76_0.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/nol/77_0.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/nol/77_0.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/nol/78_0.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/nol/78_0.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/nol/79_0.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/nol/79_0.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/nol/80_0.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/nol/80_0.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/nol/81_0.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/nol/81_0.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/nol/82_0.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/nol/82_0.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/nol/83_0.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/nol/83_0.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/nol/84_0.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/nol/84_0.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/nol/85_0.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/nol/85_0.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/nol/86_0.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/nol/86_0.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/nol/87_0.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/nol/87_0.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/nol/88_0.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/nol/88_0.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/nol/89_0.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/nol/89_0.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/nol/90_0.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/nol/90_0.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/satu/25_1.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/satu/25_1.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/satu/26_1.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/satu/26_1.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/satu/27_1.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/satu/27_1.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/satu/28_1.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/satu/28_1.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/satu/29_1.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/satu/29_1.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/satu/30_1.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/satu/30_1.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/satu/31_1.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/satu/31_1.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/satu/32_1.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/satu/32_1.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/satu/33_1.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/satu/33_1.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/satu/34_1.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/satu/34_1.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/satu/35_1.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/satu/35_1.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/satu/36_1.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/satu/36_1.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/satu/37_1.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/satu/37_1.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/satu/38_1.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/satu/38_1.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/satu/39_1.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/satu/39_1.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/satu/40_1.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/satu/40_1.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/satu/41_1.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/satu/41_1.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/satu/42_1.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/satu/42_1.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/satu/43_1.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/satu/43_1.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/satu/44_1.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/satu/44_1.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/satu/45_1.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/satu/45_1.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/satu/46_1.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/satu/46_1.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/satu/47_1.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/satu/47_1.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/satu/48_1.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/satu/48_1.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/satu/49_1.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/satu/49_1.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/satu/50_1.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/satu/50_1.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/satu/51_1.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/satu/51_1.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/satu/52_1.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/satu/52_1.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/satu/53_1.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/satu/53_1.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/satu/54_1.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/satu/54_1.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/satu/55_1.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/satu/55_1.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/satu/56_1.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/satu/56_1.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/satu/57_1.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/satu/57_1.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/satu/58_1.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/satu/58_1.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/satu/59_1.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/satu/59_1.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/satu/60_1.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/satu/60_1.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/satu/61_1.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/satu/61_1.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/satu/62_1.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/satu/62_1.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/satu/63_1.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/satu/63_1.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/satu/64_1.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/satu/64_1.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/satu/65_1.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/satu/65_1.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/satu/66_1.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/satu/66_1.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/satu/67_1.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/satu/67_1.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/satu/68_1.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/satu/68_1.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/satu/69_1.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/satu/69_1.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/satu/70_1.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/satu/70_1.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/satu/71_1.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/satu/71_1.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/satu/72_1.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/satu/72_1.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/satu/73_1.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/satu/73_1.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/satu/74_1.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/satu/74_1.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/satu/75_1.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/satu/75_1.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/satu/76_1.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/satu/76_1.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/satu/77_1.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/satu/77_1.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/satu/78_1.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/satu/78_1.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/satu/79_1.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/satu/79_1.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/satu/80_1.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/satu/80_1.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/satu/81_1.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/satu/81_1.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/satu/82_1.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/satu/82_1.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/satu/83_1.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/satu/83_1.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/satu/84_1.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/satu/84_1.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/satu/85_1.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/satu/85_1.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/satu/86_1.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/satu/86_1.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/satu/87_1.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/satu/87_1.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/satu/88_1.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/satu/88_1.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/satu/89_1.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/satu/89_1.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/satu/90_1.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/satu/90_1.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/sembilan/25_9.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/sembilan/25_9.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/sembilan/26_9.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/sembilan/26_9.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/sembilan/27_9.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/sembilan/27_9.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/sembilan/28_9.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/sembilan/28_9.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/sembilan/29_9.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/sembilan/29_9.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/sembilan/30_9.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/sembilan/30_9.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/sembilan/31_9.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/sembilan/31_9.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/sembilan/32_9.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/sembilan/32_9.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/sembilan/33_9.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/sembilan/33_9.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/sembilan/34_9.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/sembilan/34_9.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/sembilan/35_9.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/sembilan/35_9.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/sembilan/36_9.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/sembilan/36_9.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/sembilan/37_9.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/sembilan/37_9.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/sembilan/38_9.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/sembilan/38_9.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/sembilan/39_9.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/sembilan/39_9.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/sembilan/40_9.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/sembilan/40_9.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/sembilan/41_9.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/sembilan/41_9.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/sembilan/42_9.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/sembilan/42_9.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/sembilan/43_9.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/sembilan/43_9.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/sembilan/44_9.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/sembilan/44_9.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/sembilan/45_9.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/sembilan/45_9.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/sembilan/46_9.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/sembilan/46_9.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/sembilan/47_9.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/sembilan/47_9.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/sembilan/48_9.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/sembilan/48_9.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/sembilan/49_9.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/sembilan/49_9.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/sembilan/50_9.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/sembilan/50_9.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/sembilan/51_9.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/sembilan/51_9.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/sembilan/52_9.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/sembilan/52_9.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/sembilan/53_9.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/sembilan/53_9.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/sembilan/54_9.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/sembilan/54_9.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/sembilan/55_9.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/sembilan/55_9.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/sembilan/56_9.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/sembilan/56_9.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/sembilan/57_9.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/sembilan/57_9.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/sembilan/58_9.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/sembilan/58_9.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/sembilan/59_9.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/sembilan/59_9.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/sembilan/60_9.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/sembilan/60_9.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/sembilan/61_9.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/sembilan/61_9.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/sembilan/62_9.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/sembilan/62_9.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/sembilan/63_9.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/sembilan/63_9.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/sembilan/64_9.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/sembilan/64_9.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/sembilan/65_9.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/sembilan/65_9.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/sembilan/66_9.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/sembilan/66_9.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/sembilan/67_9.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/sembilan/67_9.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/sembilan/68_9.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/sembilan/68_9.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/sembilan/69_9.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/sembilan/69_9.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/sembilan/70_9.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/sembilan/70_9.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/sembilan/71_9.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/sembilan/71_9.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/sembilan/72_9.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/sembilan/72_9.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/sembilan/73_9.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/sembilan/73_9.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/sembilan/74_9.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/sembilan/74_9.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/sembilan/75_9.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/sembilan/75_9.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/sembilan/76_9.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/sembilan/76_9.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/sembilan/77_9.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/sembilan/77_9.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/sembilan/78_9.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/sembilan/78_9.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/sembilan/79_9.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/sembilan/79_9.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/sembilan/80_9.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/sembilan/80_9.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/sembilan/81_9.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/sembilan/81_9.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/sembilan/82_9.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/sembilan/82_9.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/sembilan/83_9.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/sembilan/83_9.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/sembilan/84_9.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/sembilan/84_9.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/sembilan/85_9.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/sembilan/85_9.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/sembilan/86_9.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/sembilan/86_9.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/sembilan/87_9.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/sembilan/87_9.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/sembilan/88_9.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/sembilan/88_9.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/sembilan/89_9.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/sembilan/89_9.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/sembilan/90_9.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/sembilan/90_9.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/tiga/25_3.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/tiga/25_3.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/tiga/26_3.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/tiga/26_3.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/tiga/27_3.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/tiga/27_3.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/tiga/28_3.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/tiga/28_3.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/tiga/29_3.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/tiga/29_3.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/tiga/30_3.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/tiga/30_3.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/tiga/31_3.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/tiga/31_3.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/tiga/32_3.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/tiga/32_3.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/tiga/33_3.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/tiga/33_3.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/tiga/34_3.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/tiga/34_3.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/tiga/35_3.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/tiga/35_3.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/tiga/36_3.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/tiga/36_3.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/tiga/37_3.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/tiga/37_3.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/tiga/38_3.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/tiga/38_3.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/tiga/39_3.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/tiga/39_3.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/tiga/40_3.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/tiga/40_3.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/tiga/41_3.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/tiga/41_3.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/tiga/42_3.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/tiga/42_3.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/tiga/43_3.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/tiga/43_3.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/tiga/44_3.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/tiga/44_3.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/tiga/45_3.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/tiga/45_3.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/tiga/46_3.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/tiga/46_3.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/tiga/47_3.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/tiga/47_3.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/tiga/48_3.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/tiga/48_3.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/tiga/49_3.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/tiga/49_3.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/tiga/50_3.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/tiga/50_3.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/tiga/51_3.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/tiga/51_3.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/tiga/52_3.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/tiga/52_3.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/tiga/53_3.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/tiga/53_3.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/tiga/54_3.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/tiga/54_3.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/tiga/55_3.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/tiga/55_3.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/tiga/56_3.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/tiga/56_3.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/tiga/57_3.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/tiga/57_3.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/tiga/58_3.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/tiga/58_3.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/tiga/59_3.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/tiga/59_3.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/tiga/60_3.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/tiga/60_3.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/tiga/61_3.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/tiga/61_3.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/tiga/62_3.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/tiga/62_3.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/tiga/63_3.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/tiga/63_3.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/tiga/64_3.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/tiga/64_3.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/tiga/65_3.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/tiga/65_3.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/tiga/66_3.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/tiga/66_3.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/tiga/67_3.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/tiga/67_3.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/tiga/68_3.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/tiga/68_3.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/tiga/69_3.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/tiga/69_3.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/tiga/70_3.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/tiga/70_3.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/tiga/71_3.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/tiga/71_3.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/tiga/72_3.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/tiga/72_3.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/tiga/73_3.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/tiga/73_3.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/tiga/74_3.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/tiga/74_3.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/tiga/75_3.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/tiga/75_3.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/tiga/76_3.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/tiga/76_3.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/tiga/77_3.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/tiga/77_3.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/tiga/78_3.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/tiga/78_3.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/tiga/79_3.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/tiga/79_3.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/tiga/80_3.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/tiga/80_3.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/tiga/81_3.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/tiga/81_3.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/tiga/82_3.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/tiga/82_3.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/tiga/83_3.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/tiga/83_3.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/tiga/84_3.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/tiga/84_3.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/tiga/85_3.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/tiga/85_3.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/tiga/86_3.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/tiga/86_3.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/tiga/87_3.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/tiga/87_3.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/tiga/88_3.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/tiga/88_3.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/tiga/89_3.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/tiga/89_3.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/tiga/90_3.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/tiga/90_3.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/tujuh/25_7.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/tujuh/25_7.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/tujuh/26_7.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/tujuh/26_7.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/tujuh/27_7.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/tujuh/27_7.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/tujuh/28_7.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/tujuh/28_7.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/tujuh/29_7.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/tujuh/29_7.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/tujuh/30_7.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/tujuh/30_7.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/tujuh/31_7.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/tujuh/31_7.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/tujuh/32_7.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/tujuh/32_7.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/tujuh/33_7.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/tujuh/33_7.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/tujuh/34_7.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/tujuh/34_7.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/tujuh/35_7.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/tujuh/35_7.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/tujuh/36_7.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/tujuh/36_7.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/tujuh/37_7.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/tujuh/37_7.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/tujuh/38_7.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/tujuh/38_7.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/tujuh/39_7.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/tujuh/39_7.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/tujuh/40_7.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/tujuh/40_7.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/tujuh/41_7.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/tujuh/41_7.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/tujuh/42_7.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/tujuh/42_7.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/tujuh/43_7.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/tujuh/43_7.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/tujuh/44_7.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/tujuh/44_7.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/tujuh/45_7.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/tujuh/45_7.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/tujuh/46_7.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/tujuh/46_7.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/tujuh/47_7.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/tujuh/47_7.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/tujuh/48_7.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/tujuh/48_7.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/tujuh/49_7.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/tujuh/49_7.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/tujuh/50_7.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/tujuh/50_7.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/tujuh/51_7.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/tujuh/51_7.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/tujuh/52_7.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/tujuh/52_7.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/tujuh/53_7.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/tujuh/53_7.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/tujuh/54_7.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/tujuh/54_7.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/tujuh/55_7.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/tujuh/55_7.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/tujuh/56_7.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/tujuh/56_7.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/tujuh/57_7.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/tujuh/57_7.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/tujuh/58_7.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/tujuh/58_7.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/tujuh/59_7.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/tujuh/59_7.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/tujuh/60_7.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/tujuh/60_7.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/tujuh/61_7.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/tujuh/61_7.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/tujuh/62_7.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/tujuh/62_7.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/tujuh/63_7.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/tujuh/63_7.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/tujuh/64_7.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/tujuh/64_7.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/tujuh/65_7.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/tujuh/65_7.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/tujuh/66_7.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/tujuh/66_7.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/tujuh/67_7.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/tujuh/67_7.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/tujuh/68_7.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/tujuh/68_7.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/tujuh/69_7.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/tujuh/69_7.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/tujuh/70_7.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/tujuh/70_7.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/tujuh/71_7.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/tujuh/71_7.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/tujuh/72_7.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/tujuh/72_7.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/tujuh/73_7.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/tujuh/73_7.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/tujuh/74_7.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/tujuh/74_7.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/tujuh/75_7.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/tujuh/75_7.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/tujuh/76_7.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/tujuh/76_7.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/tujuh/77_7.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/tujuh/77_7.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/tujuh/78_7.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/tujuh/78_7.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/tujuh/79_7.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/tujuh/79_7.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/tujuh/80_7.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/tujuh/80_7.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/tujuh/81_7.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/tujuh/81_7.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/tujuh/82_7.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/tujuh/82_7.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/tujuh/83_7.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/tujuh/83_7.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/tujuh/84_7.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/tujuh/84_7.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/tujuh/85_7.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/tujuh/85_7.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/tujuh/86_7.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/tujuh/86_7.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/tujuh/87_7.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/tujuh/87_7.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/tujuh/88_7.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/tujuh/88_7.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/tujuh/89_7.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/tujuh/89_7.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/TRAIN/tujuh/90_7.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/train/tujuh/90_7.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_record/best_clf.joblib" beforeDir="false" afterPath="$PROJECT_DIR$/data_record/best_clf.joblib" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/best_clf.joblib" beforeDir="false" afterPath="$PROJECT_DIR$/best_clf.joblib" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main2.py" beforeDir="false" afterPath="$PROJECT_DIR$/main2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/micstream.py" beforeDir="false" afterPath="$PROJECT_DIR$/micstream.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sample_rate.py" beforeDir="false" afterPath="$PROJECT_DIR$/sample_rate.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp1.wav" beforeDir="false" afterPath="$PROJECT_DIR$/temp1.wav" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/train.py" beforeDir="false" afterPath="$PROJECT_DIR$/train.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -1242,10 +54,10 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../CapstoneProject-main" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -1257,7 +69,7 @@
       <recent name="D:\Zaky\CapstoneProject\ASR\SpeechRecognition" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.micstream">
+  <component name="RunManager" selected="Python.main2">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="SpeechRecognition" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -1306,6 +118,9 @@
       <module name="SpeechRecognition" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -1321,32 +136,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="mainwindow2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="micstream" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SpeechRecognition" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mainwindow2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="micstream" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="SpeechRecognition" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -1362,10 +158,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="sample_rate" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SpeechRecognition" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sample_rate.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="train" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SpeechRecognition" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -1383,11 +204,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.micstream" />
         <item itemvalue="Python.main2" />
-        <item itemvalue="Python.train" />
         <item itemvalue="Python.main" />
-        <item itemvalue="Python.mainwindow2" />
+        <item itemvalue="Python.micstream" />
+        <item itemvalue="Python.train" />
+        <item itemvalue="Python.sample_rate" />
       </list>
     </recent_temporary>
   </component>
@@ -1460,7 +281,11 @@
       <workItem from="1583039664725" duration="9068000" />
       <workItem from="1583135736879" duration="5246000" />
       <workItem from="1583154463860" duration="11860000" />
-      <workItem from="1583222932736" duration="2890000" />
+      <workItem from="1583222932736" duration="7363000" />
+      <workItem from="1583250190397" duration="3711000" />
+      <workItem from="1583301420962" duration="18780000" />
+      <workItem from="1583480349739" duration="296000" />
+      <workItem from="1583657069893" duration="571000" />
     </task>
     <servers />
   </component>
@@ -1468,10 +293,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2639" y="335" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1583213182309">
+    <state x="2639" y="335" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1583227504435">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state x="2639" y="335" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.864/1920.0.1920.1080@1920.0.1920.1080" timestamp="1583213182309" />
+    <state x="2639" y="335" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.864/1920.0.1920.1080@1920.0.1920.1080" timestamp="1583227504435" />
     <state x="2560" y="268" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1582721586759">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
@@ -1480,25 +305,49 @@
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="2660" y="295" key="FileChooserDialogImpl/0.0.1536.864/1920.0.1920.1080@1920.0.1920.1080" timestamp="1582795546551" />
-    <state x="369" y="146" key="SettingsEditor" timestamp="1583165778417">
-      <screen x="0" y="0" width="1536" height="864" />
+    <state width="1877" height="358" key="GridCell.Tab.0.bottom" timestamp="1583302304411">
+      <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state x="2381" y="182" key="SettingsEditor/0.0.1536.864/1920.0.1920.1080@1920.0.1920.1080" timestamp="1582787881280" />
+    <state width="1877" height="358" key="GridCell.Tab.0.bottom/0.0.1536.864/1920.0.1920.1080@1920.0.1920.1080" timestamp="1583302304411" />
+    <state width="1877" height="358" key="GridCell.Tab.0.center" timestamp="1583302304411">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="358" key="GridCell.Tab.0.center/0.0.1536.864/1920.0.1920.1080@1920.0.1920.1080" timestamp="1583302304411" />
+    <state width="1877" height="358" key="GridCell.Tab.0.left" timestamp="1583302304411">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="358" key="GridCell.Tab.0.left/0.0.1536.864/1920.0.1920.1080@1920.0.1920.1080" timestamp="1583302304411" />
+    <state width="1877" height="358" key="GridCell.Tab.0.right" timestamp="1583302304411">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="358" key="GridCell.Tab.0.right/0.0.1536.864/1920.0.1920.1080@1920.0.1920.1080" timestamp="1583302304411" />
+    <state width="1877" height="358" key="GridCell.Tab.1.bottom" timestamp="1583302304411">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="358" key="GridCell.Tab.1.bottom/0.0.1536.864/1920.0.1920.1080@1920.0.1920.1080" timestamp="1583302304411" />
+    <state width="1877" height="358" key="GridCell.Tab.1.center" timestamp="1583302304411">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="358" key="GridCell.Tab.1.center/0.0.1536.864/1920.0.1920.1080@1920.0.1920.1080" timestamp="1583302304411" />
+    <state width="1877" height="358" key="GridCell.Tab.1.left" timestamp="1583302304411">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="358" key="GridCell.Tab.1.left/0.0.1536.864/1920.0.1920.1080@1920.0.1920.1080" timestamp="1583302304411" />
+    <state width="1877" height="358" key="GridCell.Tab.1.right" timestamp="1583302304411">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="358" key="GridCell.Tab.1.right/0.0.1536.864/1920.0.1920.1080@1920.0.1920.1080" timestamp="1583302304411" />
+    <state x="2381" y="182" key="SettingsEditor" timestamp="1583480646315">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2381" y="182" key="SettingsEditor/0.0.1536.864/1920.0.1920.1080@1920.0.1920.1080" timestamp="1583480646315" />
     <state x="369" y="146" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1583165778417" />
+    <state x="2687" y="452" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1583399307785">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2687" y="452" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.864/1920.0.1920.1080@1920.0.1920.1080" timestamp="1583399307785" />
   </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ScopeChooserConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/SpeechRecognition$micstream.coverage" NAME="micstream Coverage Results" MODIFIED="1583302300128" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

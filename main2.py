@@ -91,11 +91,52 @@ class MyApp(QtGui.QMainWindow, Ui_MainWindow):
             self.progressBar.setRange(0, 0)
             self.label.setText("Processing...")
             response, response2 = self.stream._listen(signal)
-            resp = np.array(response2)
             print("Your response: ")
-            # print(resp)
-            self.action(resp)
-            # self.textEdit.setText(new_response)
+
+            if response == "nol":
+                print(str(response))
+                new_resp = str(response) + ""
+                # self.textEdit.setText(str(response) + " ")
+            elif response == "satu":
+                print(str(response))
+                new_resp = str(response) + ""
+                # self.textEdit.setText(str(response) + " ")
+            elif response == "dua":
+                new_resp = str(response) + ""
+                # self.textEdit.setText(str(response) + " ")
+            elif response == "tiga":
+                new_resp = str(response) + ""
+                # self.textEdit.setText(str(response) + " ")
+            elif response == "empat":
+                new_resp = str(response) + ""
+                # self.textEdit.setText(str(response) + " ")
+            elif response == "lima":
+                print(str(response))
+                new_resp = str(response) + ""
+                # self.textEdit.setText(str(response) + " ")
+            elif response == "enam":
+                print(str(response))
+                new_resp = str(response) + ""
+                # self.textEdit.setText(str(response) + " ")
+            elif response == "tujuh":
+                new_resp = str(response) + ""
+                print(str(response))
+                # self.textEdit.setText(str(response) + " ")
+            elif response == "delapan":
+                print(str(response))
+                new_resp = str(response) + ""
+                # self.textEdit.setText(str(response) + " ")
+            elif response == "sembilan":
+                print(str(response))
+                new_resp = str(response) + ""
+                # self.textEdit.setText(str(response) + " ")
+            elif response == "unknown":
+                print(str(response))
+                new_resp = str(response) + ""
+                # self.label.setText("Unknown voice, please try again")
+                time.sleep(1)
+            print("new resp: ", new_resp)
+            self.textEdit.addText(new_resp)
             stateStop = self.check_button(self.pushButtonStop)
             print("State button stop: ", stateStop)
 
@@ -112,36 +153,8 @@ class MyApp(QtGui.QMainWindow, Ui_MainWindow):
 
     def stop(self):
         self.label.setText("Stop Processing..")
-        self.progressBar.setRange(0,1)
-        state_button = False
-
-    def action(self, response):  # Response harus dlm bentuk array
-        if response == "nol":
-            print(str(response))
-        elif response == "satu":
-            print(str(response))
-        elif response == "dua":
-            new_resp = str(response) + ""
-        elif response == "tiga":
-            new_resp = str(response) + ""
-        elif response == "empat":
-            new_resp = str(response) + ""
-        elif response == "lima":
-            self.textEdit.setText(str(response) + " ")
-        elif response == "enam":
-            self.textEdit.setText(str(response) + " ")
-        elif response == "tujuh":
-            self.textEdit.setText(str(response) + " ")
-        elif response == "delapan":
-            self.textEdit.setText(str(response) + " ")
-        elif response == "sembilan":
-            self.textEdit.setText(str(response) + " ")
-        elif response == "unknown":
-            self.label.setText("Unknown voice, please try again")
-            time.sleep(1)
-
-
-
+        self.progressBar.setRange(0, 1)
+        self.check_button(self.pushButtonStop)
 
 if __name__ == "__main__":
     app = QtGui.QApplication(sys.argv)

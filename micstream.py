@@ -3,7 +3,8 @@ import math
 from struct import pack
 from sys import byteorder
 
-import joblib
+from sklearn.externals import joblib
+from train import Preprocessing
 import pyaudio
 import wave
 import numpy as np
@@ -12,7 +13,7 @@ import atexit
 from array import array
 
 from scipy.fftpack import dct
-from sklearn.preprocessing import minmax_scale
+from sklearn.preprocessing import minmax_scale, label_binarize
 import scipy.io.wavfile
 
 
@@ -41,7 +42,8 @@ class MicrophoneStream(object):
                         rate=self._rate,
                         input=True,
                         frames_per_buffer=self._chunk)
-        values = [math.sqrt(abs(audioop.avg(stream.read(self._chunk), 4))) for x in range(num_sample)]
+        values = [math.sqrt(abs(audioop.avg(stream.read(self._chunk), 4)))
+                  for x in range(num_sample)]
         r = sum(values[:int(num_sample * 0.2)]) / int(num_sample * 0.2)
         stream.close()
         p.terminate()
@@ -84,20 +86,19 @@ class MicrophoneStream(object):
         snd_data.reverse()
         return snd_data
 
-    def add_silence(self,snd_data, seconds):
+    def add_silence(self, snd_data, seconds):
         "Add silence to the start and end of 'snd_data' of length 'seconds' (float)"
-        r = array('h', [0 for i in range(int(seconds*self._rate))])
+        r = array('h', [0 for i in range(int(seconds * self._rate))])
         r.extend(snd_data)
-        r.extend([0 for i in range(int(seconds*self._rate))])
+        r.extend([0 for i in range(int(seconds * self._rate))])
         return r
 
     def record(self):
-        p = pyaudio.PyAudio()
-        self.stream = p.open(format=self._bits,
-                             channels=self._channels,
-                             rate=self._rate,
-                             input=True,
-                             frames_per_buffer=self._chunk)
+        self.stream = self.audio_instance.open(format=self._bits,
+                                               channels=self._channels,
+                                               rate=self._rate,
+                                               input=True,
+                                               frames_per_buffer=self._chunk)
         num_silent = 0
         snd_started = False
         self.r = array('h')
@@ -119,7 +120,7 @@ class MicrophoneStream(object):
             if snd_started and num_silent > 30:
                 break
 
-        sample_width = p.get_sample_size(self._bits)
+        sample_width = self.audio_instance.get_sample_size(self._bits)
         self.stream.stop_stream()
         self.stream.close()
 
@@ -208,7 +209,7 @@ class MicrophoneStream(object):
         num_ceps = 13
         mfccs = dct(filter_banks, type=2, axis=1, norm='ortho')[:, 1: (num_ceps + 1)]  # Keep 1-13
         mfccs = np.mean(mfccs, axis=0)
-        mfccs = minmax_scale(mfccs)
+        mfccs = minmax_scale(mfccs, feature_range=(0, 1))
         return mfccs.T
 
     def _features(self, file):
@@ -224,6 +225,8 @@ class MicrophoneStream(object):
 
         clf = joblib.load('best_clf.joblib')  # Call classifier here
         response = clf.predict(features)
+        print("Predicted: ")
+        print(response)
         response2 = self.recognize(clf, features, threshold)  # THIS GONNA RETURN THE RESPONSE
         return response, response2
 
@@ -243,8 +246,8 @@ class MicrophoneStream(object):
                     break
 
     def recognize(self, clf, feature, thresh):
+        # class_prob = clf.decision_function(feature)
         class_prob = clf.decision_function(feature)
-        print(class_prob)
         self.adjusted_classes(class_prob, thresh)  # Class_prob will change according to the adjusted class
         response = []
 
@@ -270,4 +273,9 @@ class MicrophoneStream(object):
             response = ["sembilan"]
         else:
             response = ["unknown"]
-        return response
+        return np.array(response)
+
+
+# if __name__ == "__main__":
+#     data = MicrophoneStream()
+#     data._listen('0_6.wav')

@@ -27,15 +27,16 @@ from sklearn.preprocessing import minmax_scale
 
 import pandas as pd
 
-#Initialize Path to Training Directory and Testing Directory`
+# Initialize Path to Training Directory and Testing Directory`
 
-TS_DIR = 'D:/Zaky/CapstoneProject/ASR/SpeechRecognition/data_record/test' # dataset for testing
+TS_DIR = 'D:/Zaky/CapstoneProject/ASR/SpeechRecognition/data_new/test'  # dataset for testing
 
-TR_DIR = 'D:/Zaky/CapstoneProject/ASR/SpeechRecognition/data_record/train' # dataset for training
+TR_DIR = 'D:/Zaky/CapstoneProject/ASR/SpeechRecognition/data_new/train'  # dataset for training
+
 
 class Preprocessing(object):
 
-    def mfcc(self,fn):
+    def mfcc(self, fn):
         sample_rate, signal = scipy.io.wavfile.read(fn)  # Read Audio File
 
         # FILTERING
@@ -154,9 +155,13 @@ class Recognizer(object):
             print()
 
             clf = GridSearchCV(svm.SVC(probability=True),
-                               self.tuned_parameters, refit= True,cv=K,
+                               self.tuned_parameters, cv=K,
                                scoring='%s_macro' % score)
             clf.fit(X_train, y_train)
+            print(clf)
+            print('Best Score: ', clf.best_score_)
+            print('Best C: ', clf.best_estimator_.C)
+            print('Best kernel: ', clf.best_estimator_.kernel)
 
             print("Best parameters set found on development set:")
             print()
@@ -182,8 +187,12 @@ class Recognizer(object):
 
         print("Done training")
         best_clf = clf
-        joblib.dump(best_clf, 'D:/Zaky/CapstoneProject/ASR/SpeechRecognition/best_clf.joblib')  # Menyimpan model classifier pada suatu file .joblib.
+        print(best_clf)
+        joblib.dump(best_clf,
+                    'D:/Zaky/CapstoneProject/ASR/SpeechRecognition/best_clf.joblib')  # Menyimpan model classifier pada suatu file .joblib.
         return best_clf, best_param
+
+
 
 if __name__ == '__main__':
     data = Preprocessing()
@@ -191,7 +200,8 @@ if __name__ == '__main__':
     y, y_num = data.label(TR_DIR)
 
     # Use label_binarize to be multi-label like settings
-    y_bin = label_binarize(y, classes=['nol', 'satu', 'dua', 'tiga', 'empat', 'lima', 'enam', 'tujuh', 'delapan', 'sembilan'])
+    y_bin = label_binarize(y, classes=['nol', 'satu', 'dua', 'tiga', 'empat', 'lima', 'enam', 'tujuh', 'delapan',
+                                       'sembilan'])
     n_classes = y_bin.shape[1]
     y_test = y_bin
 
@@ -199,11 +209,13 @@ if __name__ == '__main__':
     y_test, y_num1 = data.label(TS_DIR)
 
     # Use label_binarize to be multi-label like settings
-    y_bin2 = label_binarize(y_test, classes=['nol', 'satu', 'dua', 'tiga', 'empat', 'lima', 'enam', 'tujuh', 'delapan', 'sembilan'])
+    y_bin2 = label_binarize(y_test, classes=['nol', 'satu', 'dua', 'tiga', 'empat', 'lima', 'enam', 'tujuh', 'delapan',
+                                             'sembilan'])
+
 
     recognizer = Recognizer()
     K = 10
-    grid_search_clf,best_parameter = recognizer.gridSearch(X,y,K)
+    grid_search_clf, best_parameter = recognizer.gridSearch(X, y, K)
 
     print()
     print("Testing Report : ")
