@@ -3,13 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="c25fe25f-b17a-41f9-9bf5-c7dfcc5c69ca" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/best_clf.joblib" beforeDir="false" afterPath="$PROJECT_DIR$/best_clf.joblib" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main2.py" beforeDir="false" afterPath="$PROJECT_DIR$/main2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/micstream.py" beforeDir="false" afterPath="$PROJECT_DIR$/micstream.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sample_rate.py" beforeDir="false" afterPath="$PROJECT_DIR$/sample_rate.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/temp1.wav" beforeDir="false" afterPath="$PROJECT_DIR$/temp1.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/train.py" beforeDir="false" afterPath="$PROJECT_DIR$/train.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -118,9 +113,6 @@
       <module name="SpeechRecognition" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -285,7 +277,7 @@
       <workItem from="1583250190397" duration="3711000" />
       <workItem from="1583301420962" duration="18780000" />
       <workItem from="1583480349739" duration="296000" />
-      <workItem from="1583657069893" duration="571000" />
+      <workItem from="1583657069893" duration="1670000" />
     </task>
     <servers />
   </component>

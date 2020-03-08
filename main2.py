@@ -94,49 +94,43 @@ class MyApp(QtGui.QMainWindow, Ui_MainWindow):
             print("Your response: ")
 
             if response == "nol":
-                print(str(response))
-                new_resp = str(response) + ""
+                # print(str(response))
+                new_resp = response[0] + ""
                 # self.textEdit.setText(str(response) + " ")
             elif response == "satu":
-                print(str(response))
-                new_resp = str(response) + ""
+                # print(response[0])
+                new_resp = response[0] + ""
                 # self.textEdit.setText(str(response) + " ")
             elif response == "dua":
-                new_resp = str(response) + ""
+                new_resp = response[0] + ""
                 # self.textEdit.setText(str(response) + " ")
             elif response == "tiga":
-                new_resp = str(response) + ""
+                new_resp = response[0] + ""
                 # self.textEdit.setText(str(response) + " ")
             elif response == "empat":
-                new_resp = str(response) + ""
+                new_resp = response[0] + ""
                 # self.textEdit.setText(str(response) + " ")
             elif response == "lima":
-                print(str(response))
-                new_resp = str(response) + ""
+                new_resp = response[0] + ""
                 # self.textEdit.setText(str(response) + " ")
             elif response == "enam":
-                print(str(response))
-                new_resp = str(response) + ""
+                new_resp = response[0] + ""
                 # self.textEdit.setText(str(response) + " ")
             elif response == "tujuh":
-                new_resp = str(response) + ""
-                print(str(response))
+                new_resp = response[0] + ""
                 # self.textEdit.setText(str(response) + " ")
             elif response == "delapan":
-                print(str(response))
-                new_resp = str(response) + ""
+                new_resp = response[0] + ""
                 # self.textEdit.setText(str(response) + " ")
             elif response == "sembilan":
-                print(str(response))
-                new_resp = str(response) + ""
+                new_resp = response[0] + ""
                 # self.textEdit.setText(str(response) + " ")
             elif response == "unknown":
-                print(str(response))
-                new_resp = str(response) + ""
+                new_resp = response[0] + ""
                 # self.label.setText("Unknown voice, please try again")
                 time.sleep(1)
             print("new resp: ", new_resp)
-            self.textEdit.addText(new_resp)
+            self.textEdit.append(new_resp)
             stateStop = self.check_button(self.pushButtonStop)
             print("State button stop: ", stateStop)
 
