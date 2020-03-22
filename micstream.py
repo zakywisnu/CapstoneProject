@@ -82,7 +82,7 @@ class Streaming(object):
         return snd_data
 
     def add_silence(self, snd_data, seconds):
-        "Add silence to the start and end of 'snd_data' of length 'seconds' (float)"
+        # Add silence to the start and end of 'snd_data' of length 'seconds' (float)
         r = array('h', [0 for i in range(int(seconds * self._rate))])
         r.extend(snd_data)
         r.extend([0 for i in range(int(seconds * self._rate))])
@@ -147,14 +147,12 @@ class Streaming(object):
     def features_extract(self, file):
         features = np.empty((0, 13))
         features = self.mfcc_feature.mfcc(file)
-        features = np.array(features)  # Features of real time (test) data
-        features = features.reshape(1, -1)  # (-1,1) utk single feature, (1,-1) utk single sample
+        features = np.array(features)
+        features = features.reshape(1, -1)
         return features
 
     def listening(self, signal):
         features = self.features_extract(signal)
-        threshold = 3.38  # utk clf.joblib, ovr.joblib
-
         clf = joblib.load('best_clf.joblib')  # Call classifier here
         response = clf.predict(features)
         print("Predicted: ")

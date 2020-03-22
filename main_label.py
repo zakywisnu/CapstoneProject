@@ -1,13 +1,10 @@
 import sys, time
-import numpy as np
-import win32api, win32gui
 import traceback
 
 from micstream import Streaming
 from PyQt4 import QtGui, uic
 
 from PyQt4.QtCore import *
-from PyQt4.QtGui import *
 
 qtCreatorFile = "MainWindow2.ui"
 
@@ -43,9 +40,9 @@ class Start(QRunnable):
             exctype, value = sys.exc_info()[:2]
             self.signals.error.emit((exctype, value, traceback.format_exc()))
         else:
-            self.signals.result.emit(result)  # Return the result of the processing
+            self.signals.result.emit(result)
         finally:
-            self.signals.finished.emit()  # Done
+            self.signals.finished.emit()
 
 
 class MyApp(QtGui.QMainWindow, Ui_MainWindow):
@@ -135,8 +132,8 @@ class MyApp(QtGui.QMainWindow, Ui_MainWindow):
     def mulai(self):
         start = Start(self.transcribe)
 
-        start.signals.finished.connect(self.thread_complete)  # ACTION SAAT FINISH
-        start.signals.progress.connect(self.progress_fn)  # PROGRESS %
+        start.signals.finished.connect(self.thread_complete)
+        start.signals.progress.connect(self.progress_fn)
 
         # Execute
         self.threadpool.start(start)

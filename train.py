@@ -26,8 +26,6 @@ from sklearn.preprocessing import minmax_scale
 
 import pandas as pd
 
-# Initialize Path to Training Directory and Testing Directory`
-
 # TS_DIR = 'D:/Zaky/CapstoneProject/ASR/SpeechRecognition/data_new/test'  # dataset for testing
 
 TR_DIR = 'D:/Zaky/CapstoneProject/ASR/SpeechRecognition/data_combi'  # dataset for training
@@ -35,8 +33,10 @@ TR_DIR = 'D:/Zaky/CapstoneProject/ASR/SpeechRecognition/data_combi'  # dataset f
 
 class Preprocessing(object):
 
-    def extract_features(self, path, file_ext="*.wav"):
+    def __init__(self):
         self.feature = MFCC_process()
+
+    def extract_features(self, path, file_ext="*.wav"):
         features = np.empty((0, 13))  # initialize feature vector
         for root, sub, files in os.walk(path, file_ext):  # read all files in said path
             files = sorted(files)
@@ -137,7 +137,6 @@ if __name__ == '__main__':
     X = data.extract_features(TR_DIR)
     y, y_num = data.label(TR_DIR)
 
-    # Use label_binarize to be multi-label like settings
     y_bin = label_binarize(y, classes=['nol', 'satu', 'dua', 'tiga', 'empat', 'lima', 'enam', 'tujuh', 'delapan',
                                        'sembilan'])
     n_classes = y_bin.shape[1]

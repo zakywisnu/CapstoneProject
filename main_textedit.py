@@ -1,13 +1,10 @@
 import sys, time
-import numpy as np
-import win32api, win32gui
 import traceback
 
 from micstream import Streaming
 from PyQt4 import QtGui, uic
 
 from PyQt4.QtCore import *
-from PyQt4.QtGui import *
 
 qtCreatorFile = "MainWindow.ui"
 
