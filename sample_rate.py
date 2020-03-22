@@ -1,9 +1,14 @@
+"""UNUSED FILE WILL BE DELETED LATER"""
+
+
+
+
 import scipy.io.wavfile
 
 sample_rate, signal2 = scipy.io.wavfile.read('temp1.wav')
 print(sample_rate)
 
-# D:\Zaky\CapstoneProject\ASR\conda-asrenv\lib\site-packages\PyQt4\pyuic4.bat -x MainWindow2.ui -o mainwindow2.py
+# D:\Zaky\CapstoneProject\ASR\conda-asrenv\lib\site-packages\PyQt4\pyuic4.bat -x MainWindow2.ui -o mainwindow_label.py
 
 # #
 # # if __name__ == "__main__":
