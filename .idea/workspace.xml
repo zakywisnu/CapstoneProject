@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c25fe25f-b17a-41f9-9bf5-c7dfcc5c69ca" name="Default Changelist" comment="" />
+    <list default="true" id="c25fe25f-b17a-41f9-9bf5-c7dfcc5c69ca" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/temp1.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main_label.py" beforeDir="false" afterPath="$PROJECT_DIR$/main_label.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main_textedit.py" beforeDir="false" afterPath="$PROJECT_DIR$/main_textedit.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/micstream.py" beforeDir="false" afterPath="$PROJECT_DIR$/micstream.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/train.py" beforeDir="false" afterPath="$PROJECT_DIR$/train.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,6 +28,9 @@
     <expand />
     <select />
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="SpeechRecognition" />
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -28,40 +38,37 @@
       </list>
     </option>
   </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>joblib</find>
-      <find>n_splits</find>
-      <find>4</find>
-      <find>label</find>
-      <find>cv</find>
-      <find>split</find>
-    </findStrings>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="JupyterTrust" id="7154e91e-887e-4ed0-ab0e-45b19be2c83c" />
   <component name="ProjectId" id="1XybQStvvk57sqeeSvHbJdpOk6t" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../audio-data-augmentation" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../mywork/Udemy/Machine Learning/Part 2 - Regression/Section 6 - Polynomial Regression" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\Zaky\CapstoneProject\ASR\SpeechRecognition" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Zaky\CapstoneProject\ASR\SpeechRecognition" />
       <recent name="D:\Zaky\CapstoneProject\ASR\SpeechRecognition\Angka_0" />
       <recent name="D:\Zaky\CapstoneProject\ASR\SpeechRecognition\Training" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Zaky\CapstoneProject\ASR\SpeechRecognition" />
+    </key>
   </component>
-  <component name="RunManager" selected="Python.train">
+  <component name="RunManager" selected="Python.main_label (1)">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="SpeechRecognition" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -84,20 +91,17 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="noisereduction" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="main_label (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SpeechRecognition" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/noisereduction.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main_label.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -106,20 +110,17 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="resampling" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="main_textedit (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SpeechRecognition" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/resampling.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main_textedit.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -128,20 +129,17 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="sample_rate" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="main_textedit" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SpeechRecognition" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sample_rate.py" />
+      <option name="SCRIPT_NAME" value="D:\Zaky\CapstoneProject\ASR\SpeechRecognition\main_textedit.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -150,20 +148,17 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="signalproc (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="micstream" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SpeechRecognition" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="D:\Zaky\CapstoneProject\ASR\SpeechRecognition\train.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/micstream.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -176,6 +171,9 @@
       <module name="SpeechRecognition" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -193,11 +191,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.main_label (1)" />
+        <item itemvalue="Python.main_textedit (1)" />
+        <item itemvalue="Python.main_textedit" />
+        <item itemvalue="Python.micstream" />
         <item itemvalue="Python.train" />
-        <item itemvalue="Python.signalproc (1)" />
-        <item itemvalue="Python.sample_rate" />
-        <item itemvalue="Python.noisereduction" />
-        <item itemvalue="Python.resampling" />
       </list>
     </recent_temporary>
   </component>
@@ -263,26 +261,93 @@
       <workItem from="1582457656650" duration="1544000" />
       <workItem from="1582532203369" duration="1887000" />
       <workItem from="1582616891561" duration="1304000" />
-      <workItem from="1582697571752" duration="924000" />
+      <workItem from="1582697571752" duration="6309000" />
+      <workItem from="1582785017947" duration="5469000" />
+      <workItem from="1582869742413" duration="7439000" />
+      <workItem from="1582951689975" duration="1467000" />
+      <workItem from="1583039664725" duration="9068000" />
+      <workItem from="1583135736879" duration="5246000" />
+      <workItem from="1583154463860" duration="11860000" />
+      <workItem from="1583222932736" duration="7363000" />
+      <workItem from="1583250190397" duration="3711000" />
+      <workItem from="1583301420962" duration="18780000" />
+      <workItem from="1583480349739" duration="296000" />
+      <workItem from="1583657069893" duration="1670000" />
+      <workItem from="1583734177996" duration="2955000" />
+      <workItem from="1583810463678" duration="2416000" />
+      <workItem from="1583909161762" duration="3044000" />
+      <workItem from="1584081631758" duration="2054000" />
+      <workItem from="1584107527537" duration="6310000" />
+      <workItem from="1584172880751" duration="3480000" />
+      <workItem from="1584625924320" duration="2435000" />
+      <workItem from="1584852174923" duration="1493000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ScopeChooserConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
+  <component name="WindowStateProjectService">
+    <state x="2639" y="335" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1583227504435">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2639" y="335" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.864/1920.0.1920.1080@1920.0.1920.1080" timestamp="1583227504435" />
+    <state x="2560" y="268" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1582721586759">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2560" y="268" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1536.864/1920.0.1920.1080@1920.0.1920.1080" timestamp="1582721586759" />
+    <state x="499" y="179" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1584158869229">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="499" y="179" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.864@0.0.1536.864" timestamp="1584158869229" />
+    <state x="592" y="236" key="FileChooserDialogImpl" timestamp="1584182523703">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="592" y="236" key="FileChooserDialogImpl/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1584182523703" />
+    <state x="2660" y="295" key="FileChooserDialogImpl/0.0.1536.864/1920.0.1920.1080@1920.0.1920.1080" timestamp="1582795546551" />
+    <state width="1877" height="358" key="GridCell.Tab.0.bottom" timestamp="1583302304411">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="358" key="GridCell.Tab.0.bottom/0.0.1536.864/1920.0.1920.1080@1920.0.1920.1080" timestamp="1583302304411" />
+    <state width="1877" height="358" key="GridCell.Tab.0.center" timestamp="1583302304411">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="358" key="GridCell.Tab.0.center/0.0.1536.864/1920.0.1920.1080@1920.0.1920.1080" timestamp="1583302304411" />
+    <state width="1877" height="358" key="GridCell.Tab.0.left" timestamp="1583302304411">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="358" key="GridCell.Tab.0.left/0.0.1536.864/1920.0.1920.1080@1920.0.1920.1080" timestamp="1583302304411" />
+    <state width="1877" height="358" key="GridCell.Tab.0.right" timestamp="1583302304411">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="358" key="GridCell.Tab.0.right/0.0.1536.864/1920.0.1920.1080@1920.0.1920.1080" timestamp="1583302304411" />
+    <state width="1877" height="358" key="GridCell.Tab.1.bottom" timestamp="1583302304411">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="358" key="GridCell.Tab.1.bottom/0.0.1536.864/1920.0.1920.1080@1920.0.1920.1080" timestamp="1583302304411" />
+    <state width="1877" height="358" key="GridCell.Tab.1.center" timestamp="1583302304411">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="358" key="GridCell.Tab.1.center/0.0.1536.864/1920.0.1920.1080@1920.0.1920.1080" timestamp="1583302304411" />
+    <state width="1877" height="358" key="GridCell.Tab.1.left" timestamp="1583302304411">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="358" key="GridCell.Tab.1.left/0.0.1536.864/1920.0.1920.1080@1920.0.1920.1080" timestamp="1583302304411" />
+    <state width="1877" height="358" key="GridCell.Tab.1.right" timestamp="1583302304411">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="358" key="GridCell.Tab.1.right/0.0.1536.864/1920.0.1920.1080@1920.0.1920.1080" timestamp="1583302304411" />
+    <state x="2381" y="182" key="SettingsEditor" timestamp="1583480646315">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2381" y="182" key="SettingsEditor/0.0.1536.864/1920.0.1920.1080@1920.0.1920.1080" timestamp="1583480646315" />
+    <state x="369" y="146" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1583165778417" />
+    <state x="2687" y="452" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1583399307785">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2687" y="452" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.864/1920.0.1920.1080@1920.0.1920.1080" timestamp="1583399307785" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/SpeechRecognition$micstream.coverage" NAME="micstream Coverage Results" MODIFIED="1583302300128" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
