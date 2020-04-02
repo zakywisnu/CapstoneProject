@@ -10,6 +10,7 @@ import scipy.io.wavfile
 from scipy.fftpack import dct
 import joblib
 from MFCC import MFCC_process
+from sklearn.metrics import roc_curve
 
 # Packages for displaying plots
 import matplotlib.pyplot as plt
@@ -84,7 +85,7 @@ class Recognizer(object):
                                  {'kernel': ['linear'], 'C': [0.01, 0.1, 1, 10, 100, 100, 1000]}]
 
     def gridSearch(self, X, y, K):
-        X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.25, random_state=0)
+        X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.25, random_state=0, stratify=y)
 
         scores = ['precision', 'recall']
 
@@ -96,7 +97,7 @@ class Recognizer(object):
                                self.tuned_parameters, cv=K,
                                scoring='%s_macro' % score)
             clf.fit(X_train, y_train)
-            print(clf)
+            print()
             print('Best Score: ', clf.best_score_)
             print('Best C: ', clf.best_estimator_.C)
             print('Best kernel: ', clf.best_estimator_.kernel)
@@ -129,7 +130,6 @@ class Recognizer(object):
         joblib.dump(best_clf,
                     'D:/Zaky/CapstoneProject/ASR/SpeechRecognition/best_clf.joblib')  # Menyimpan model classifier pada suatu file .joblib.
         return best_clf, best_param
-
 
 
 if __name__ == '__main__':

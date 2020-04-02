@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c25fe25f-b17a-41f9-9bf5-c7dfcc5c69ca" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/temp1.wav" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main_label.py" beforeDir="false" afterPath="$PROJECT_DIR$/main_label.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main_textedit.py" beforeDir="false" afterPath="$PROJECT_DIR$/main_textedit.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/micstream.py" beforeDir="false" afterPath="$PROJECT_DIR$/micstream.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MainWindow.ui" beforeDir="false" afterPath="$PROJECT_DIR$/MainWindow.ui" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/best_clf.joblib" beforeDir="false" afterPath="$PROJECT_DIR$/best_clf.joblib" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mainwindow_label.py" beforeDir="false" afterPath="$PROJECT_DIR$/mainwindow_label.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/train.py" beforeDir="false" afterPath="$PROJECT_DIR$/train.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -68,7 +67,7 @@
       <recent name="D:\Zaky\CapstoneProject\ASR\SpeechRecognition" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.main_label (1)">
+  <component name="RunManager" selected="Python.main_edit">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="SpeechRecognition" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -91,10 +90,32 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="main_edit" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SpeechRecognition" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main_edit.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="main_label (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SpeechRecognition" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -114,6 +135,9 @@
       <module name="SpeechRecognition" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -133,6 +157,9 @@
       <module name="SpeechRecognition" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -140,25 +167,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="D:\Zaky\CapstoneProject\ASR\SpeechRecognition\main_textedit.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="micstream" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="SpeechRecognition" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/micstream.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -191,11 +199,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.main_edit" />
+        <item itemvalue="Python.train" />
         <item itemvalue="Python.main_label (1)" />
         <item itemvalue="Python.main_textedit (1)" />
         <item itemvalue="Python.main_textedit" />
-        <item itemvalue="Python.micstream" />
-        <item itemvalue="Python.train" />
       </list>
     </recent_temporary>
   </component>
@@ -280,7 +288,22 @@
       <workItem from="1584107527537" duration="6310000" />
       <workItem from="1584172880751" duration="3480000" />
       <workItem from="1584625924320" duration="2435000" />
-      <workItem from="1584852174923" duration="1493000" />
+      <workItem from="1584852174923" duration="2636000" />
+      <workItem from="1584878849381" duration="6507000" />
+      <workItem from="1585030802939" duration="2794000" />
+      <workItem from="1585156427999" duration="1917000" />
+      <workItem from="1585213418255" duration="600000" />
+      <workItem from="1585231875943" duration="1382000" />
+      <workItem from="1585287155435" duration="2847000" />
+      <workItem from="1585324231313" duration="648000" />
+      <workItem from="1585412666206" duration="686000" />
+      <workItem from="1585454376083" duration="343000" />
+      <workItem from="1585463076351" duration="3668000" />
+      <workItem from="1585541443338" duration="3701000" />
+      <workItem from="1585560121987" duration="602000" />
+      <workItem from="1585722571292" duration="2605000" />
+      <workItem from="1585757981892" duration="599000" />
+      <workItem from="1585796396726" duration="5107000" />
     </task>
     <servers />
   </component>
@@ -300,11 +323,12 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="499" y="179" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.864@0.0.1536.864" timestamp="1584158869229" />
-    <state x="592" y="236" key="FileChooserDialogImpl" timestamp="1584182523703">
+    <state x="592" y="236" key="FileChooserDialogImpl" timestamp="1585034624658">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="592" y="236" key="FileChooserDialogImpl/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1584182523703" />
     <state x="2660" y="295" key="FileChooserDialogImpl/0.0.1536.864/1920.0.1920.1080@1920.0.1920.1080" timestamp="1582795546551" />
+    <state x="592" y="236" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1585034624658" />
     <state width="1877" height="358" key="GridCell.Tab.0.bottom" timestamp="1583302304411">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
